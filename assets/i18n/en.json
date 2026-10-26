@@ -1,0 +1,843 @@
+{
+  "NAV": {
+    "HOME": "Home",
+    "ABOUT": "About us",
+    "SERVICES": "Services",
+    "CONTACT": "Contact",
+    "DDO": "Organizational development department",
+    "SERVICE_RECRUITMENT": "Recruitment",
+    "SERVICE_PAYROLL": "Payroll and social security",
+    "SERVICE_TRAINING": "Training",
+    "SERVICE_PERMISSIONS": "Municipal procedures, safety and environment"
+  },
+  "HOME": {
+    "TITLE1": "Comprehensive ",
+    "TITLE2": "human capital ",
+    "TITLE3": "services",
+    "EYES": "People + Strategy = Results",
+    "DESCRIPTION": "Practical solutions and support strategies for human talent management.",
+    "CTA": "Begins to grow",
+    "CTA2": "Discover our solutions",
+    "SERVICES": {
+      "EYES": "What we do",
+      "TITLE1": "An ally for every area of your",
+      "TITLE2": "human capital",
+      "DESCRIPTION": "From recruitment to organizational development: practical solutions so your business can focus on growth.",
+      "MORE": "Learn more",
+      "ITEMS": {
+        "RECRUITMENT": {
+          "TITLE": "Recruitment and selection",
+          "TEXT": "We find profiles that match your company's needs."
+        },
+        "PAYROLL": {
+          "TITLE": "Payroll and social security",
+          "TEXT": "Comprehensive operation, control and confidentiality."
+        },
+        "PROCEDURES": {
+          "TITLE": "Municipal procedures, safety and environment",
+          "TEXT": "Management of procedures related to your company's administrative needs."
+        },
+        "TRAINING": {
+          "TITLE": "Training",
+          "TEXT": "High-quality courses with personalized attention."
+        },
+        "DDO": {
+          "TITLE": "Organizational Development Directorate",
+          "TEXT": "Diagnosis, strategic planning and institutionalization powered by AI reasoning and expert support."
+        }
+      }
+    },
+    "CONTACT_CTA": {
+      "EYES": "Let's talk",
+      "TITLE1": "Your human capital,",
+      "TITLE2": "our priority",
+      "DESCRIPTION": "Tell us what your company needs and we'll advise you.",
+      "BUTTON": "Contact us",
+      "CALL": "Or call us"
+    }
+  },
+  "SERVICES": {
+    "HERO": {
+      "EYEBROW": "OUR SERVICES",
+      "TITLE_START": "Solutions for every human",
+      "TITLE_END": "capital need.",
+      "DESCRIPTION": "Every company is different. We get to know your organization, understand its needs, and develop solutions that empower people and drive business forward.",
+      "BUTTON": "Let's talk about your company",
+      "CARD_LINE1": "Talent is the driving force",
+      "CARD_LINE2": "behind every organization.",
+      "NOTE_TITLE": "Personalized approach",
+      "NOTE_TEXT": "Solutions tailored to you",
+      "PILLAR_1": "PEOPLE",
+      "PILLAR_2": "PROCESSES",
+      "PILLAR_3": "RESULTS"
+    },
+    "INTRO": {
+      "LABEL": "HOW CAN WE HELP YOU?",
+      "TITLE_START": "The support your company",
+      "TITLE_END": "needs to grow.",
+      "DESCRIPTION": "We support you in talent management and in the processes that keep your organization running. Our commitment is to provide attentive service, reliable solutions, and services aligned with your goals."
+    },
+    "LIST": {
+      "LABEL": "OUR SOLUTIONS",
+      "TITLE": "Services designed for your business",
+      "DESCRIPTION": "Explore our areas of expertise and find the support you need."
+    },
+    "CARDS": {
+      "LINK": "Explore service",
+      "RECRUITMENT": {
+        "CATEGORY": "HUMAN TALENT",
+        "TITLE": "Recruitment and selection",
+        "DESCRIPTION": "We find candidates aligned with your company's needs to strengthen your team with the right talent."
+      },
+      "PAYROLL": {
+        "CATEGORY": "ADMINISTRATIVE MANAGEMENT",
+        "TITLE": "Payroll and social security",
+        "DESCRIPTION": "We streamline payroll operations and social security administration with control, organization, and confidentiality."
+      },
+      "COMPLIANCE": {
+        "CATEGORY": "COMPLIANCE AND MANAGEMENT",
+        "TITLE": "Municipal permits, safety and environment",
+        "DESCRIPTION": "We support you with permits and administrative requirements related to your company's operations."
+      },
+      "TRAINING": {
+        "CATEGORY": "DEVELOPMENT AND LEARNING",
+        "TITLE": "Training",
+        "DESCRIPTION": "We develop skills through high-quality courses, practical content, and personalized support."
+      }
+    },
+    "CTA": {
+      "EYEBROW": "LET'S WORK TOGETHER",
+      "TITLE_START": "Your company has goals.",
+      "TITLE_END": "We'll help you achieve them.",
+      "DESCRIPTION": "Tell us what your organization needs, and let's find the right solution together.",
+      "BUTTON": "Contact Dyan Consulting"
+    }
+  },
+  "ABOUT": {
+    "HERO": {
+      "TITLE1": "People drive",
+      "TITLE2": "growth.",
+      "DESCRIPTION": "Experience, commitment and attention to detail to help companies strengthen their Human Resources and develop the potential of their people.",
+      "CTA": "Meet who we are",
+      "CARD_LABEL": "OUR ESSENCE",
+      "CARD_LINE1": "Human talent.",
+      "CARD_LINE2": "Organizational development.",
+      "TAGS": {
+        "PEOPLE": "People",
+        "COMPANIES": "Companies",
+        "DEVELOPMENT": "Development"
+      }
+    },
+    "STORY": {
+      "EYEBROW": "WHO WE ARE",
+      "TITLE1": "We support",
+      "TITLE2": "the people who make",
+      "TITLE3": "your company grow.",
+      "LEAD": "With 10 years of experience, we have supported Human Resources teams so they can focus their efforts on organizational development and, in turn, on their people.",
+      "TEXT": "We believe in the value of close support, practical solutions and attention to every detail. We work to support the identification, development and management of human talent, according to the needs of each company.",
+      "SIGNATURE": "Human Resources Consulting"
+    },
+    "EXPERIENCE": {
+      "YEARS": "years of experience",
+      "ITEMS": {
+        "COMMITMENT": {
+          "TITLE": "Commitment to every client",
+          "TEXT": "Practical solutions and a service focused on Human Resources needs."
+        },
+        "DEVELOPMENT": {
+          "TITLE": "Continuous development",
+          "TEXT": "Support to drive organizational development and the talent of employees."
+        }
+      }
+    },
+    "PURPOSE": {
+      "EYEBROW": "WHAT GUIDES US",
+      "TITLE1": "A clear purpose.",
+      "TITLE2": "A shared vision.",
+      "TEXT": "Our work is aimed at providing a quality service and contributing to the development of our clients, their people and their organizations.",
+      "MISSION": {
+        "EYEBROW": "OUR PURPOSE",
+        "TITLE": "Mission",
+        "TEXT": "To achieve our clients' satisfaction through practical solutions and support strategies in Human Resources, from the identification, development and management of human talent, always seeking to provide a quality service."
+      },
+      "VISION": {
+        "EYEBROW": "WHERE WE ARE HEADING",
+        "TITLE": "Vision",
+        "TEXT": "To reach a solid position in the market through excellent service that exceeds our clients' expectations, constantly seeking the development of our clients, our staff and their families, with a clear commitment to social responsibility."
+      }
+    },
+    "VALUES": {
+      "EYEBROW": "OUR PRINCIPLES",
+      "TITLE1": "Values reflected",
+      "TITLE2": "in our work.",
+      "TEXT": "Every service is an opportunity to show the quality, responsibility and preparation with which we support our clients.",
+      "ITEMS": {
+        "QUALITY": {
+          "TITLE": "Quality of service",
+          "TEXT": "We seek to guarantee careful work, paying attention to detail in every aspect of each service."
+        },
+        "COMMITMENT": {
+          "TITLE": "Commitment",
+          "TEXT": "We work to deliver what we agreed on, on time and as promised, striving to maintain our clients' trust."
+        },
+        "UPDATE": {
+          "TITLE": "Continuous learning",
+          "TEXT": "We keep training and updating ourselves to offer alternatives suited to each company's needs, regardless of its size."
+        }
+      }
+    },
+    "CTA": {
+      "TITLE1": "Your company grows.",
+      "TITLE2": "So do the people.",
+      "TEXT": "Discover our Human Resources solutions and see how we can support your organization's needs.",
+      "BUTTON": "Let's talk about your company"
+    }
+  },
+  "ORG": {
+    "HERO": {
+      "TITLE1": "Turn your strategy into",
+      "TITLE2": "real results.",
+      "DESCRIPTION": "Organizational development with business vision, artificial intelligence reasoning and support from senior consultants to drive your company's evolution.",
+      "CTA": "Book your strategy session",
+      "SECONDARY": "Explore programs",
+      "VISUAL_LABEL": "Illustration of organizational strategy",
+      "DASH": {
+        "TITLE": "Strategic vision",
+        "CENTER_CODE": "OD",
+        "CENTER_LABEL": "STRATEGY",
+        "TAGS": {
+          "PEOPLE": "People",
+          "PROCESSES": "Processes",
+          "RESULTS": "Results"
+        }
+      }
+    },
+    "INTRO": {
+      "LABEL": "ORGANIZATIONAL DEVELOPMENT",
+      "TITLE1": "Better-founded decisions.",
+      "TITLE2": "Stronger organizations.",
+      "P1": "We combine established Organizational Development methodologies with artificial intelligence reasoning algorithms. We turn executive intuition into quantitative information as a starting point for senior leadership decisions.",
+      "P2": "The process combines structured analysis with professional support to turn findings into concrete actions."
+    },
+    "METRICS": {
+      "LABEL": "A PROCESS WITH DIRECTION",
+      "TITLE": "Clarity to move forward, structure to grow.",
+      "ITEMS": {
+        "DIAGNOSIS": {
+          "VALUE": "2 hours",
+          "TITLE": "Organizational diagnosis",
+          "TEXT": "Quantitative maturity assessment to identify improvement opportunities."
+        },
+        "ARCHITECTURE": {
+          "VALUE": "48 hours",
+          "TITLE": "Operating architecture",
+          "TEXT": "From vision to a work structure co-created with your team."
+        },
+        "PLAN": {
+          "VALUE": "5 months",
+          "TITLE": "Implementation plan",
+          "TEXT": "Phases, activities and owners to bring the strategy into operations."
+        }
+      }
+    },
+    "PROGRAMS": {
+      "LABEL": "OUR SCALE UP PROGRAMS",
+      "TITLE": "A program for every level of intervention.",
+      "TEXT": "Solutions designed for owners and executives who want to professionalize their organization and take it to the next level.",
+      "INCLUDES": "What does it include?",
+      "LINK": "Learn about the program",
+      "ITEMS": {
+        "BEGINNER": {
+          "INDEX": "START",
+          "BADGE": "Free session · Limited spots",
+          "SUBTITLE": "A first conversation to detect improvement opportunities.",
+          "POINTS": {
+            "P1": "Financial leak diagnosis.",
+            "P2": "Return and impact projection.",
+            "P3": "Exclusive, limited access."
+          }
+        },
+        "LIGHT": {
+          "INDEX": "DIAGNOSIS",
+          "BADGE": "Level 2",
+          "SUBTITLE": "Organizational maturity diagnosis in just 2 hours.",
+          "POINTS": {
+            "P1": "Numerical evaluation across 8 key perspectives.",
+            "P2": "X-ray of findings and operational leaks.",
+            "P3": "5-month tactical roadmap."
+          }
+        },
+        "PRO": {
+          "INDEX": "PLANNING",
+          "BADGE": "Level 3",
+          "SUBTITLE": "Strategic planning and institutionalization in a 2-day workshop.",
+          "POINTS": {
+            "P1": "Situational diagnosis: SWOT and PESTEL.",
+            "P2": "Balanced Scorecard alignment.",
+            "P3": "Detailed 5-month work plan."
+          }
+        },
+        "MASTER": {
+          "INDEX": "INSTITUTIONALIZATION",
+          "BADGE": "Level 4",
+          "SUBTITLE": "A month and a half of support to institutionalize your operation.",
+          "POINTS": {
+            "P1": "Complete strategic ecosystem.",
+            "P2": "Comprehensive development of procedures and policies.",
+            "P3": "Organizational empowerment plan."
+          }
+        },
+        "PREMIUM": {
+          "INDEX": "TRANSFORMATION",
+          "BADGE": "Top level",
+          "SUBTITLE": "Transformation and strategic support to consolidate execution.",
+          "POINTS": {
+            "P1": "Management, control dashboard and results meetings.",
+            "P2": "Coaching sessions and executive advisory.",
+            "P3": "Monetization strategies and operational execution."
+          }
+        }
+      }
+    },
+    "BENEFITS": {
+      "LABEL": "WHAT YOU CAN GAIN",
+      "TITLE": "Results you notice in daily operations.",
+      "TEXT": "The goal is not to produce more documents, but to turn strategy into improvements that can be put into practice.",
+      "ITEMS": {
+        "DATA": {
+          "TITLE": "Data-driven decisions",
+          "TEXT": "Move from intuition to quantitative indicators to support executive decisions."
+        },
+        "LEAKS": {
+          "TITLE": "Leaks detected",
+          "TEXT": "Identify bottlenecks that can affect margin, productivity and resources."
+        },
+        "DIRECTION": {
+          "TITLE": "Clear direction, faster",
+          "TEXT": "Define a 5-month work path and reduce time spent on discussions without direction."
+        },
+        "ALIGNED": {
+          "TITLE": "An aligned team",
+          "TEXT": "Define mission, vision, values, OKRs and KPIs linked to the key perspectives of the business."
+        },
+        "INSTITUTION": {
+          "TITLE": "Institutionalized operations",
+          "TEXT": "Structure procedures, policies and responsibilities to give operations greater autonomy."
+        },
+        "EXPERTS": {
+          "TITLE": "Experts by your side",
+          "TEXT": "Get support from senior consultants to put strategic agreements into practice."
+        }
+      }
+    },
+    "CLOSING": {
+      "TITLE1": "Your next level of growth starts with",
+      "TITLE2": "a strategic conversation.",
+      "TEXT": "Let's talk about your company's challenges and the opportunities you can develop with a clear strategy.",
+      "BUTTON": "Book your strategy session"
+    }
+  },
+
+  "CONTACT": {
+    "HERO": {
+      "TITLE1": "Your human capital,",
+      "TITLE2": "our priority.",
+      "DESCRIPTION": "Tell us what your company needs. Our team will help you find strategic solutions to drive your growth.",
+      "LINK": "Let's talk about your goals",
+      "CARD_TITLE": "People drive results.",
+      "CARD_TEXT": "Let's build the next step for your company together.",
+      "BOTTOM1": "HUMAN RESOURCES CONSULTING",
+      "BOTTOM2": "QUERÉTARO, MEXICO"
+    },
+    "SECTION": {
+      "TITLE1": "Let's make things",
+      "TITLE2": "happen.",
+      "TEXT": "Share your needs with us. We want to understand your situation and help you identify the best solution."
+    },
+    "INFO": {
+      "KICKER": "DIRECT CONTACT",
+      "TITLE": "Let's connect.",
+      "TEXT": "The first step toward improvement begins with a conversation.",
+      "PHONE": "Phone",
+      "EMAIL": "Email",
+      "WEB": "Website",
+      "LOCATION_LABEL": "Location",
+      "LOCATION": "Querétaro, Mexico",
+      "NOTE": "Every company faces different challenges. Let's talk about yours."
+    },
+    "FORM": {
+      "STEP": "LET'S GET STARTED",
+      "TITLE": "Tell us about your project.",
+      "TEXT": "Fill out the form and we'll get in touch with you.",
+      "NAME": "Full name",
+      "NAME_PLACEHOLDER": "What's your name?",
+      "EMAIL": "Email address",
+      "EMAIL_PLACEHOLDER": "name@company.com",
+      "COMPANY": "Company name",
+      "COMPANY_PLACEHOLDER": "Where do you work?",
+      "MESSAGE": "How can we help you?",
+      "MESSAGE_PLACEHOLDER": "Briefly tell us what your company needs...",
+      "REQUIRED": "Required fields",
+      "SUBMIT": "Send message",
+      "SENDING": "Sending message...",
+      "SUCCESS": "Thank you! We've received your message and will get in touch with you soon.",
+      "ERROR": "We couldn't send your message. Please try again or email us directly."
+    },
+    "BOTTOM": {
+      "TITLE1": "The next step begins",
+      "TITLE2": "with a conversation.",
+      "BUTTON": "Call us"
+    }
+  },
+  "RECRUITMENT": {
+    "HERO": {
+      "TITLE_1": "We find the talent",
+      "TITLE_2": "that drives your company.",
+      "DESCRIPTION": "We connect your organization with the right people, combining selection strategies, professional evaluation, and technology to streamline your vacancy coverage.",
+      "ACTION_PRIMARY": "Find your next talent",
+      "ACTION_SECONDARY": "Discover our process"
+    },
+    "VISUAL_CARD": {
+      "LABEL": "DYAN TALENT SOLUTIONS",
+      "MESSAGE_1": "The right talent.",
+      "MESSAGE_GRADIENT": "The future of your company.",
+      "DESCRIPTION": "People who make organizations grow.",
+      "STATUS": "STRATEGIC PROCESS"
+    },
+    "INTRO": {
+      "EYEBROW": "RECRUITMENT AND SELECTION",
+      "TITLE_1": "More than just filling vacancies,",
+      "TITLE_2": "we find compatibility.",
+      "LEAD": "We take on your hiring needs as our own.",
+      "TEXT": "We offer tailored recruitment solutions, powered by AI-driven mobile applications that streamline selection and vacancy coverage with the right talent for your company.",
+      "LINK": "Let's talk about your vacancies",
+      "HIGHLIGHTS": {
+        "CARD_1": {
+          "TITLE": "Right profiles",
+          "DESC": "We look for candidates aligned with the requirements of each position."
+        },
+        "CARD_2": {
+          "TITLE": "Applied innovation",
+          "DESC": "We integrate mobile tools with artificial intelligence into selection processes."
+        },
+        "CARD_3": {
+          "TITLE": "Agile processes",
+          "DESC": "We organize each stage to facilitate vacancy coverage."
+        }
+      }
+    },
+    "INCLUDES": {
+      "EYEBROW": "OUR SERVICE",
+      "TITLE_1": "A process designed",
+      "TITLE_2": "to choose better.",
+      "DESCRIPTION": "We guide the key hiring stages to identify candidates who respond to your organization's needs.",
+      "PROCESS": {
+        "01": {
+          "TITLE": "Vacancy posting",
+          "DESC": "Dissemination of the job opportunity to attract potential candidates."
+        },
+        "02": {
+          "TITLE": "Initial interview",
+          "DESC": "First approach to learn about the candidate's experience, skills, and expectations."
+        },
+        "03": {
+          "TITLE": "Psychometric tests",
+          "DESC": "Application of tests to complement profile evaluation, according to position requirements."
+        },
+        "04": {
+          "TITLE": "Employment references",
+          "DESC": "Request for references to obtain complementary information on professional background."
+        },
+        "05": {
+          "TITLE": "Final interviews",
+          "DESC": "Coordination of final interviews with a shortlist of up to three candidates."
+        },
+        "06": {
+          "TITLE": "Financial proposal",
+          "DESC": "Sending the corresponding economic proposal to the selected candidate."
+        }
+      }
+    },
+    "MASS": {
+      "EYEBROW": "SOLUTIONS FOR YOUR GROWTH",
+      "TITLE_1": "Need to hire",
+      "TITLE_2": "at scale?",
+      "DESCRIPTION": "We streamline mass recruitment through strategic talent attraction, selection, and evaluation processes, identifying the candidates who best fit your company's needs.",
+      "BUTTON": "Tell us your need",
+      "PANEL": {
+        "LABEL": "OUR APPROACH",
+        "S1_TITLE": "Attraction",
+        "S1_DESC": "We connect with potential profiles.",
+        "S2_TITLE": "Evaluation",
+        "S2_DESC": "We identify profile compatibility.",
+        "S3_TITLE": "Selection",
+        "S3_DESC": "We facilitate the hiring decision.",
+        "QUOTE": "Detailed work is our working method, ensuring a minimal error rate."
+      }
+    },
+    "OBJECTIVE": {
+      "EYEBROW": "OUR OBJECTIVE",
+      "TITLE_1": "The right talent,",
+      "TITLE_2": "in the right place.",
+      "DESCRIPTION": "Fill vacancies according to the needs and requirements of each company, contributing to the formation of teams aligned with their objectives."
+    },
+    "CTA": {
+      "EYEBROW": "WE ARE HERE TO HELP",
+      "TITLE_1": "Your next great team",
+      "TITLE_2": "begins with a decision.",
+      "DESCRIPTION": "Tell us what profiles your company needs. Let's design a custom recruitment solution for you.",
+      "BUTTON": "Contact us"
+    }
+  },
+  "PAYROLL": {
+    "HERO": {
+      "TITLE_1": "Payroll and",
+      "TITLE_2": "social security",
+      "DESCRIPTION": "Comprehensive operation, control, and confidentiality.",
+      "ACTION": "Request information"
+    },
+    "VISUAL_CARD": {
+      "STATUS": "Comprehensive management",
+      "LABEL": "Payroll administration",
+      "TITLE": "Precision in every process.",
+      "FEATURE_1": "Calculations and benefits",
+      "FEATURE_2": "Social security obligations",
+      "FEATURE_3": "Confidential information"
+    },
+    "INTRO": {
+      "LABEL": "OUR SERVICE",
+      "TITLE_1": "Your payroll in the hands",
+      "TITLE_2": "of specialists.",
+      "PARAGRAPH_1": "We become the operational arm of your payroll department through service outsourcing. Thus, your organization obtains a comprehensive solution that provides process security, exact calculations for IMSS, INFONAVIT, and other obligations, along with strict confidentiality in handling your data.",
+      "PARAGRAPH_2": "We focus on simplifying operations, maintaining administrative control, and helping you manage your labor responsibilities with complete peace of mind."
+    },
+    "BENEFICIOS": {
+      "CARD_1": {
+        "TITLE": "Precision",
+        "DESC": "Payroll and benefits calculations with attention to every detail."
+      },
+      "CARD_2": {
+        "TITLE": "Security",
+        "DESC": "Compliance tracking for labor and social security obligations."
+      },
+      "CARD_3": {
+        "TITLE": "Confidentiality",
+        "DESC": "Responsible handling of information for your company and employees."
+      }
+    },
+    "DETAIL": {
+      "LABEL": "SERVICE SCOPE",
+      "TITLE_1": "What does",
+      "TITLE_2": "our service include?",
+      "DESCRIPTION": "Operational solutions to keep your payroll organized and your processes under control.",
+      "ASIDE": {
+        "TITLE": "Comprehensive payroll management",
+        "DESC": "We adapt to your organization's operational needs to provide support across key payroll and social security processes.",
+        "LINK": "Let's talk about your company"
+      },
+      "SERVICES": {
+        "ITEM_1": {
+          "TITLE": "Payroll processing",
+          "DESC": "Weekly, biweekly processing, or customized to your company's needs."
+        },
+        "ITEM_2": {
+          "TITLE": "Taxes and obligations",
+          "DESC": "Calculation and control of IMSS, INFONAVIT, FONACOT obligations and payment file generation."
+        },
+        "ITEM_3": {
+          "TITLE": "Benefits calculation",
+          "DESC": "Christmas bonus (aguinaldo), vacations, vacation bonus, savings fund, PTU, and other corporate benefits."
+        },
+        "ITEM_4": {
+          "TITLE": "Payroll reports",
+          "DESC": "Preparation of payroll reports according to your organization's requirements."
+        },
+        "ITEM_5": {
+          "TITLE": "SUA and payroll tax calculation",
+          "DESC": "Assistance in determining monthly employer-employee contributions (COP), biweekly retirement, severance and old age (RCV), and payroll taxes."
+        },
+        "ITEM_6": {
+          "TITLE": "INFONAVIT withholdings",
+          "DESC": "Requesting withholding sheets when employees do not provide them upon joining the company."
+        },
+        "ITEM_7": {
+          "TITLE": "IDSE movement administration",
+          "DESC": "Management of hires, terminations, and salary modifications with the IMSS through the portal."
+        },
+        "ITEM_8": {
+          "TITLE": "Work risk premium",
+          "DESC": "Assistance in preparing the annual work risk premium declaration with the IMSS."
+        }
+      }
+    },
+    "CTA": {
+      "LABEL": "LET'S TEAM UP",
+      "TITLE_1": "Interested in this service?",
+      "TITLE_2": "Let's talk about what your company needs.",
+      "DESCRIPTION": "Simplify your payroll processes with the guidance of Dyan Consulting.",
+      "BUTTON": "Contact us"
+    }
+  },
+  "PERMITS": {
+    "HERO": {
+      "TITLE_1": "Municipal procedures,",
+      "TITLE_2": "safety and environment",
+      "DESCRIPTION": "Management of procedures related to the administrative, regulatory, and operational needs of your company."
+    },
+    "VISUAL_CARD": {
+      "STATUS": "Business management",
+      "LABEL": "Compliance and prevention",
+      "TITLE": "Your company ready to operate.",
+      "FEATURE_1": "Procedures and permits",
+      "FEATURE_2": "Safety and hygiene",
+      "FEATURE_3": "Environmental management"
+    },
+    "INTRO": {
+      "LABEL": "OUR SERVICE",
+      "TITLE_1": "We handle the details",
+      "TITLE_2": "so you can move forward.",
+      "PARAGRAPH_1": "We assist your company in managing municipal permits, administrative requirements, and processes related to safety, hygiene, and environmental compliance.",
+      "PARAGRAPH_2": "Our goal is to help you identify and address the requirements applicable to your operations, promoting safer workplaces and organized management of your obligations."
+    },
+    "CATEGORIES": {
+      "CARD_1": {
+        "EYEBROW": "ADMINISTRATIVE MANAGEMENT",
+        "TITLE": "Procedures and permits",
+        "DESC": "Support in management and documentation related to the formal operation of your company.",
+        "LINK": "Learn about procedures"
+      },
+      "CARD_2": {
+        "EYEBROW": "PREVENTION AND PROTECTION",
+        "TITLE": "Safety and hygiene",
+        "DESC": "Identification of preventive needs and support in safety aspects for workplace facilities.",
+        "LINK": "Learn about the areas"
+      },
+      "CARD_3": {
+        "EYEBROW": "ENVIRONMENTAL RESPONSIBILITY",
+        "TITLE": "Environmental management",
+        "DESC": "Guidance on environmental management corresponding to the characteristics and activities of your company.",
+        "LINK": "Learn about procedures"
+      }
+    },
+    "ADMIN_PROCEDURES": {
+      "LABEL": "MANAGEMENT AND DOCUMENTATION",
+      "TITLE_1": "Administrative",
+      "TITLE_2": "procedures.",
+      "DESCRIPTION": "Support in the necessary steps to meet the administrative requirements of your organization, according to its activity and location.",
+      "ITEM_1": {
+        "TITLE": "Municipal operating license",
+        "DESC": "Support in obtaining the corresponding operating license for the establishment."
+      },
+      "ITEM_2": {
+        "TITLE": "Civil Protection approval",
+        "DESC": "Guidance and document management related to Civil Protection requirements applicable to the establishment."
+      },
+      "ITEM_3": {
+        "TITLE": "SEMARNAT environmental registration",
+        "DESC": "Assistance in identifying and managing environmental procedures relevant to company activities."
+      },
+      "ITEM_4": {
+        "TITLE": "IMSS employer registration",
+        "DESC": "Support in managing employer registration and filing occupational risk rates as applicable."
+      }
+    },
+    "SAFETY": {
+      "LABEL": "WORKPLACE PREVENTION",
+      "TITLE_1": "Safety",
+      "TITLE_2": "and hygiene.",
+      "DESCRIPTION": "Prevention and safety areas that may require attention according to the activities, facilities, and risks of each workplace.",
+      "ITEMS": {
+        "PRESSURE_VESSELS": "Pressure-subjected vessels",
+        "HEIGHT_SAFETY": "Safety in height work",
+        "SIGNAGE": "Safety signage",
+        "CHEMICALS": "Chemical substances",
+        "FIRE_BRIGADE": "Fire prevention and fighting brigade",
+        "FIRST_AID_BRIGADE": "First aid brigade",
+        "RESCUE_BRIGADE": "Search and rescue brigade",
+        "EVACUATION_BRIGADE": "Evacuation brigade",
+        "PPE": "Personal Protective Equipment (PPE)",
+        "ACCIDENT_INVESTIGATION": "Accident investigation",
+        "MACHINERY_PROTECTION": "Protection systems and safety devices on machinery and work equipment",
+        "ELECTRICAL_MAINTENANCE": "Maintenance of electrical installations"
+      },
+      "NOTE": {
+        "HIGHLIGHT": "Every company has different needs.",
+        "TEXT": "The applicable requirements, studies, and measures depend on the activity, facilities, and current regulations."
+      }
+    },
+    "CTA": {
+      "LABEL": "LET'S TEAM UP",
+      "TITLE_1": "Interested in this service?",
+      "TITLE_2": "Tell us what your company needs.",
+      "DESCRIPTION": "Let's discuss your administrative, safety, and environmental management needs.",
+      "BUTTON": "Contact us"
+    }
+  },
+  "TRAINING": {
+    "HERO": {
+      "TITLE_1": "We drive talent.",
+      "TITLE_2": "We empower the future.",
+      "DESCRIPTION": "High-quality courses and personalized service to develop skills, strengthen teams, and take your organization's potential to the next level.",
+      "ACTION": "Explore courses",
+      "TRUST": "Training tailored to your company's needs"
+    },
+    "VISUAL_CARD": {
+      "TAG": "CONTINUOUS DEVELOPMENT",
+      "LABEL": "Learn to grow",
+      "TITLE_1": "Talent is developed.",
+      "TITLE_2": "Potential is transformed.",
+      "TOPIC_1": "Leadership and managerial skills",
+      "TOPIC_2": "Personal and professional development",
+      "TOPIC_3": "Competencies for the future"
+    },
+    "BACK": "All services",
+    "INTRO": {
+      "LABEL": "BUSINESS TRAINING",
+      "TITLE_1": "Knowledge that",
+      "TITLE_2": "turns into results.",
+      "PARAGRAPH_1": "We provide high-quality courses thanks to our team of instructors who possess knowledge and experience in the topics taught.",
+      "PARAGRAPH_2": "We design learning experiences that respond to the needs of each organization, helping to strengthen competencies, improve performance, and develop human talent."
+    },
+    "CATEGORIES": {
+      "CAT_1": "Training",
+      "CAT_2": "Tax & Compliance",
+      "CAT_3": "Leadership",
+      "CAT_4": "Executive development",
+      "CAT_5": "Sales",
+      "CAT_6": "Safety and hygiene"
+    },
+    "CATALOG": {
+      "LABEL": "COURSE CATALOG",
+      "TITLE_1": "Find the next",
+      "TITLE_2": "step for your team.",
+      "DESCRIPTION": "Explore our training areas and find courses that align with your organization's objectives."
+    },
+    "SECTIONS": {
+      "S1": {
+        "EYEBROW": "COMMUNICATION AND TEACHING",
+        "TITLE": "Training",
+        "COUNT": "04 courses",
+        "COURSES": {
+          "C1": {
+            "TITLE": "Internal instructor training",
+            "DESC": "Develop the necessary skills to transmit knowledge and facilitate learning within the company."
+          },
+          "C2": {
+            "TITLE": "Effective presentations",
+            "DESC": "Organize ideas and communicate messages with clarity, confidence, and impact."
+          },
+          "C3": {
+            "TITLE": "Public speaking and captivating your audience",
+            "DESC": "Strengthen oral expression, confidence, and connection with different audiences."
+          },
+          "C4": {
+            "TITLE": "Instructor training",
+            "DESC": "Learn tools to structure and deliver effective training sessions."
+          }
+        }
+      },
+      "S2": {
+        "EYEBROW": "ADMINISTRATION AND COMPLIANCE",
+        "TITLE": "Tax & Compliance",
+        "COUNT": "03 courses",
+        "COURSES": {
+          "C1": {
+            "TITLE": "Payroll ABC",
+            "DESC": "Understand foundational concepts for payroll administration and management."
+          },
+          "C2": {
+            "TITLE": "Labor law basics",
+            "DESC": "Learn essential labor principles for managing employment relationships."
+          },
+          "C3": {
+            "TITLE": "SIROC administration",
+            "DESC": "Learn fundamental aspects of administration and operation of the SIROC system."
+          }
+        }
+      },
+      "S3": {
+        "EYEBROW": "TEAMS AND PEOPLE DEVELOPMENT",
+        "TITLE": "Leadership and staff training",
+        "COUNT": "12 courses",
+        "COURSES": {
+          "C1": "Employee Experience: Redesigning the Employee Journey",
+          "C2": "Executive Coaching and Mentoring for Talent Development",
+          "C3": "Agile Leadership: Preparing Teams for the Future",
+          "C4": "Situational Leadership for Effective Leading",
+          "C5": "Communication for Effective Leadership",
+          "C6": "Development of Managerial Skills",
+          "C7": "Development of Directive Skills",
+          "C8": "Feedback and Recognition: Ultimate Tools of the Successful Leader",
+          "C9": "The Power of Communication for the 21st Century Leader",
+          "C10": "Communication",
+          "C11": "Leadership",
+          "C12": "Teamwork"
+        }
+      },
+      "S4": {
+        "EYEBROW": "VISION AND GROWTH",
+        "TITLE": "Executive development",
+        "COUNT": "10 courses",
+        "COURSES": {
+          "C1": "Empathy and effective interpersonal relationships",
+          "C2": "Creativity: Six Thinking Hats",
+          "C3": "Applying Emotional Intelligence in Organizational Decision Making",
+          "C4": "Wellness and Work-Life Balance Strategies",
+          "C5": "Applying the 7 Habits of Highly Effective People",
+          "C6": "Executive Coaching and Mentoring for Talent Development",
+          "C7": "Mindfulness at Work: Tools for Productivity and Wellness",
+          "C8": "Building High-Performance Work Teams",
+          "C9": "Personal Development with Neuro-Linguistic Programming",
+          "C10_BADGE": "INNOVATION",
+          "C10_TITLE": "AI for Executives",
+          "C10_DESC": "Explore how to integrate artificial intelligence into analysis, productivity, and decision-making."
+        }
+      },
+      "S5": {
+        "EYEBROW": "NEGOTIATION AND CUSTOMER EXPERIENCE",
+        "TITLE": "Sales",
+        "COUNT": "07 courses",
+        "COURSES": {
+          "C1": "Effective Sales Closing",
+          "C2": "Sales Techniques",
+          "C3": "Effective Prospecting: The Foundation of Successful Sales",
+          "C4": "Administration / Financial Education",
+          "C5": "Finance for Non-Financials",
+          "C6": "Customer Service and Attention",
+          "C7": "Emotional Intelligence for Customer Service in Service Companies"
+        }
+      },
+      "S6": {
+        "EYEBROW": "OCCUPATIONAL SAFETY AND PREVENTION",
+        "TITLE": "Safety and hygiene",
+        "COUNT": "12 topics",
+        "COURSES": {
+          "C1": "Pressure vessels",
+          "C2": "Height safety",
+          "C3": "Signage",
+          "C4": "Chemical substances",
+          "C5": "Fire prevention and firefighting brigade",
+          "C6": "First aid brigade",
+          "C7": "Search and rescue brigade",
+          "C8": "Evacuation brigade",
+          "C9": "Personal Protective Equipment (PPE)",
+          "C10": "Accident investigation",
+          "C11": "Protection systems and safety devices on machinery and work equipment",
+          "C12": "Maintenance of electrical installations"
+        }
+      }
+    },
+    "PERSONALIZED": {
+      "LABEL": "TAILORED TRAINING",
+      "TITLE": "Your team is unique. Their training should be too.",
+      "DESCRIPTION": "We get close to our clients to understand their true needs in training, recruitment and selection, payroll outsourcing, and other human capital services. We can help you identify the courses that best adapt to your organization's goals."
+    },
+    "CTA": {
+      "LABEL": "LET'S TEAM UP",
+      "TITLE_1": "Interested in this service?",
+      "TITLE_2": "Tell us what your company needs.",
+      "DESCRIPTION": "Let's design a learning experience together aligned with your organization's challenges and objectives.",
+      "BUTTON": "Contact us"
+    }
+  }
+}
