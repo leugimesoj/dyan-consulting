@@ -1,0 +1,25 @@
+<div class="app-shell">
+  <div class="app-body">
+    <app-navbar></app-navbar>
+
+    <main class="main-content">
+      <div class="content-wrapper">
+        <router-outlet></router-outlet>
+      </div>
+    </main>
+  </div>
+
+  <app-footer></app-footer>
+
+  <button
+    class="back-to-top"
+    [class.back-to-top--visible]="showBackToTop"
+    [attr.aria-hidden]="!showBackToTop"
+    [attr.tabindex]="showBackToTop ? 0 : -1"
+    aria-label="Volver al inicio"
+    type="button"
+    (click)="scrollToTop()"
+  >
+    <span class="back-to-top__arrow"></span>
+  </button>
+</div>

@@ -1,0 +1,269 @@
+<main class="payroll-page">
+  <!-- HERO -->
+  <section class="payroll-hero">
+    <div class="payroll-hero__grid"></div>
+    <div class="payroll-hero__glow payroll-hero__glow--one"></div>
+    <div class="payroll-hero__glow payroll-hero__glow--two"></div>
+
+    <div class="payroll-container payroll-hero__content">
+      <div class="payroll-hero__copy">
+        <h1>
+          {{ 'PAYROLL.HERO.TITLE_1' | translate }}
+          <span>{{ 'PAYROLL.HERO.TITLE_2' | translate }}</span>
+        </h1>
+
+        <p class="payroll-hero__description">{{ 'PAYROLL.HERO.DESCRIPTION' | translate }}</p>
+
+        <a href="/contact" class="payroll-button payroll-button--primary">
+          {{ 'PAYROLL.HERO.ACTION' | translate }}
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M5 12h14M13 6l6 6-6 6" />
+          </svg>
+        </a>
+      </div>
+
+      <div class="payroll-hero__visual" aria-hidden="true">
+        <div class="payroll-visual-card">
+          <div class="payroll-visual-card__top">
+            <div class="payroll-visual-card__icon">
+              <svg viewBox="0 0 24 24">
+                <rect x="3" y="5" width="18" height="15" rx="3" />
+                <path d="M3 10h18M8 15h3" />
+              </svg>
+            </div>
+            <span class="payroll-visual-card__status"> {{ 'PAYROLL.VISUAL_CARD.STATUS' | translate }} </span>
+          </div>
+
+          <p class="payroll-visual-card__label">{{ 'PAYROLL.VISUAL_CARD.LABEL' | translate }}</p>
+
+          <h2>{{ 'PAYROLL.VISUAL_CARD.TITLE' | translate }}</h2>
+
+          <div class="payroll-visual-card__divider"></div>
+
+          <div class="payroll-visual-card__features">
+            <div>
+              <span class="payroll-feature-dot"></span>
+              <span>{{ 'PAYROLL.VISUAL_CARD.FEATURE_1' | translate }}</span>
+            </div>
+            <div>
+              <span class="payroll-feature-dot"></span>
+              <span>{{ 'PAYROLL.VISUAL_CARD.FEATURE_2' | translate }}</span>
+            </div>
+            <div>
+              <span class="payroll-feature-dot"></span>
+              <span>{{ 'PAYROLL.VISUAL_CARD.FEATURE_3' | translate }}</span>
+            </div>
+          </div>
+
+          <div class="payroll-visual-card__decoration">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </div>
+
+        <div class="payroll-hero__orb payroll-hero__orb--one"></div>
+        <div class="payroll-hero__orb payroll-hero__orb--two"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- DESCRIPCIÓN DEL SERVICIO -->
+  <section class="payroll-section">
+    <div class="payroll-container">
+      <div class="payroll-intro">
+        <div class="payroll-intro__heading">
+          <span class="payroll-section-label">{{ 'PAYROLL.INTRO.LABEL' | translate }}</span>
+          <h2>
+            {{ 'PAYROLL.INTRO.TITLE_1' | translate }}
+            <span>{{ 'PAYROLL.INTRO.TITLE_2' | translate }}</span>
+          </h2>
+        </div>
+
+        <div class="payroll-intro__text">
+          <p>
+            {{ 'PAYROLL.INTRO.PARAGRAPH_1' | translate }}
+          </p>
+
+          <p>
+            {{ 'PAYROLL.INTRO.PARAGRAPH_2' | translate }}
+          </p>
+        </div>
+      </div>
+
+      <!-- BENEFICIOS -->
+      <div class="payroll-benefits">
+        <article class="payroll-benefit">
+          <span class="payroll-benefit__number">01</span>
+          <div class="payroll-benefit__icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="3" y="4" width="18" height="17" rx="3" />
+              <path d="M16 2v4M8 2v4M3 10h18M8 14h3M8 17h6" />
+            </svg>
+          </div>
+          <h3>{{ 'PAYROLL.BENEFICIOS.CARD_1.TITLE' | translate }}</h3>
+          <p>{{ 'PAYROLL.BENEFICIOS.CARD_1.DESC' | translate }}</p>
+        </article>
+
+        <article class="payroll-benefit">
+   
+          <div class="payroll-benefit__icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 22s8-4 8-11V5l-8-3-8 3v6c0 7 8 11 8 11Z" />
+              <path d="m9 12 2 2 4-4" />
+            </svg>
+          </div>
+          <h3>{{ 'PAYROLL.BENEFICIOS.CARD_2.TITLE' | translate }}</h3>
+          <p>{{ 'PAYROLL.BENEFICIOS.CARD_2.DESC' | translate }}</p>
+        </article>
+
+        <article class="payroll-benefit">
+          <span class="payroll-benefit__number">03</span>
+          <div class="payroll-benefit__icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="3" y="4" width="18" height="16" rx="3" />
+              <path d="M7 8h10M7 12h6M7 16h4" />
+            </svg>
+          </div>
+          <h3>{{ 'PAYROLL.BENEFICIOS.CARD_3.TITLE' | translate }}</h3>
+          <p>{{ 'PAYROLL.BENEFICIOS.CARD_3.DESC' | translate }}</p>
+        </article>
+      </div>
+
+      <!-- ALCANCE DEL SERVICIO -->
+      <div class="payroll-detail">
+        <div class="payroll-detail__header">
+          <div>
+            <span class="payroll-section-label">{{ 'PAYROLL.DETAIL.LABEL' | translate }}</span>
+            <h2>
+              {{ 'PAYROLL.DETAIL.TITLE_1' | translate }}
+              <span>{{ 'PAYROLL.DETAIL.TITLE_2' | translate }}</span>
+            </h2>
+          </div>
+
+          <p>
+            {{ 'PAYROLL.DETAIL.DESCRIPTION' | translate }}
+          </p>
+        </div>
+
+        <div class="payroll-detail__layout">
+          <div class="payroll-detail__aside">
+     
+            <h3>{{ 'PAYROLL.DETAIL.ASIDE.TITLE' | translate }}</h3>
+            <p>
+              {{ 'PAYROLL.DETAIL.ASIDE.DESC' | translate }}
+            </p>
+
+            <a href="/contact" class="payroll-text-link">
+              {{ 'PAYROLL.DETAIL.ASIDE.LINK' | translate }}
+              <span aria-hidden="true">↗</span>
+            </a>
+          </div>
+
+          <div class="payroll-detail__list">
+            <article class="payroll-service-item">
+              <span class="payroll-service-item__check">✓</span>
+              <div>
+                <h3>{{ 'PAYROLL.DETAIL.SERVICES.ITEM_1.TITLE' | translate }}</h3>
+                <p>{{ 'PAYROLL.DETAIL.SERVICES.ITEM_1.DESC' | translate }}</p>
+              </div>
+            </article>
+
+            <article class="payroll-service-item">
+              <span class="payroll-service-item__check">✓</span>
+              <div>
+                <h3>{{ 'PAYROLL.DETAIL.SERVICES.ITEM_2.TITLE' | translate }}</h3>
+                <p>
+                  {{ 'PAYROLL.DETAIL.SERVICES.ITEM_2.DESC' | translate }}
+                </p>
+              </div>
+            </article>
+
+            <article class="payroll-service-item">
+              <span class="payroll-service-item__check">✓</span>
+              <div>
+                <h3>{{ 'PAYROLL.DETAIL.SERVICES.ITEM_3.TITLE' | translate }}</h3>
+                <p>
+                  {{ 'PAYROLL.DETAIL.SERVICES.ITEM_3.DESC' | translate }}
+                </p>
+              </div>
+            </article>
+
+            <article class="payroll-service-item">
+              <span class="payroll-service-item__check">✓</span>
+              <div>
+                <h3>{{ 'PAYROLL.DETAIL.SERVICES.ITEM_4.TITLE' | translate }}</h3>
+                <p>
+                  {{ 'PAYROLL.DETAIL.SERVICES.ITEM_4.DESC' | translate }}
+                </p>
+              </div>
+            </article>
+
+            <article class="payroll-service-item">
+              <span class="payroll-service-item__check">✓</span>
+              <div>
+                <h3>{{ 'PAYROLL.DETAIL.SERVICES.ITEM_5.TITLE' | translate }}</h3>
+                <p>
+                  {{ 'PAYROLL.DETAIL.SERVICES.ITEM_5.DESC' | translate }}
+                </p>
+              </div>
+            </article>
+
+            <article class="payroll-service-item">
+              <span class="payroll-service-item__check">✓</span>
+              <div>
+                <h3>{{ 'PAYROLL.DETAIL.SERVICES.ITEM_6.TITLE' | translate }}</h3>
+                <p>
+                  {{ 'PAYROLL.DETAIL.SERVICES.ITEM_6.DESC' | translate }}
+                </p>
+              </div>
+            </article>
+
+            <article class="payroll-service-item">
+              <span class="payroll-service-item__check">✓</span>
+              <div>
+                <h3>{{ 'PAYROLL.DETAIL.SERVICES.ITEM_7.TITLE' | translate }}</h3>
+                <p>
+                  {{ 'PAYROLL.DETAIL.SERVICES.ITEM_7.DESC' | translate }}
+                </p>
+              </div>
+            </article>
+
+            <article class="payroll-service-item">
+              <span class="payroll-service-item__check">✓</span>
+              <div>
+                <h3>{{ 'PAYROLL.DETAIL.SERVICES.ITEM_8.TITLE' | translate }}</h3>
+                <p>
+                  {{ 'PAYROLL.DETAIL.SERVICES.ITEM_8.DESC' | translate }}
+                </p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+
+      <!-- CTA -->
+      <section class="payroll-cta">
+        <div class="payroll-cta__glow"></div>
+
+        <div class="payroll-cta__content">
+          <span class="payroll-section-label payroll-section-label--light"> {{ 'PAYROLL.CTA.LABEL' | translate }} </span>
+
+          <h2>
+            {{ 'PAYROLL.CTA.TITLE_1' | translate }}
+            <span>{{ 'PAYROLL.CTA.TITLE_2' | translate }}</span>
+          </h2>
+
+          <p>{{ 'PAYROLL.CTA.DESCRIPTION' | translate }}</p>
+        </div>
+
+        <a href="/contact" class="payroll-button payroll-button--light">
+          {{ 'PAYROLL.CTA.BUTTON' | translate }}
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M5 12h14M13 6l6 6-6 6" />
+          </svg>
+        </a>
+      </section>
+    </div>
+  </section>
+</main>

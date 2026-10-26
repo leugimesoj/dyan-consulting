@@ -1,0 +1,843 @@
+{
+  "NAV": {
+    "HOME": "Inicio",
+    "ABOUT": "Acerca de nosotros",
+    "SERVICES": "Nuestros servicios",
+    "CONTACT": "Contacto",
+    "DDO": "Departamento de desarrollo organizacional",
+    "SERVICE_RECRUITMENT": "Reclutamiento",
+    "SERVICE_PAYROLL": "Nómina y seguridad social",
+    "SERVICE_TRAINING": "Capacitación",
+    "SERVICE_PERMISSIONS": "Trámites municipales, seguridad y medio ambiente"
+  },
+  "HOME": {
+    "TITLE1": "Servicios",
+    "TITLE2": "integrales de",
+    "TITLE3": "capital humano",
+    "EYES": "Personas + Estrategia = Resultados",
+    "DESCRIPTION": "Soluciones prácticas y estrategias de apoyo para la gestión del talento humano.",
+    "CTA": "Comienza a crecer",
+    "CTA2": "Descubre nuestras soluciones",
+    "SERVICES": {
+      "EYES": "Lo que hacemos",
+      "TITLE1": "Un aliado para cada área de tu",
+      "TITLE2": "capital humano",
+      "DESCRIPTION": "Desde el reclutamiento hasta el desarrollo organizacional: soluciones prácticas para que tu empresa se enfoque en crecer.",
+      "MORE": "Conocer más",
+      "ITEMS": {
+        "RECRUITMENT": {
+          "TITLE": "Reclutamiento y selección",
+          "TEXT": "Encontramos perfiles de acuerdo con las necesidades de tu empresa."
+        },
+        "PAYROLL": {
+          "TITLE": "Nómina y seguridad social",
+          "TEXT": "Operación integral, control y confidencialidad."
+        },
+        "PROCEDURES": {
+          "TITLE": "Trámites municipales, seguridad y medio ambiente",
+          "TEXT": "Gestión de trámites relacionados con las necesidades administrativas de la empresa."
+        },
+        "TRAINING": {
+          "TITLE": "Capacitación",
+          "TEXT": "Cursos de alta calidad y trato personalizado."
+        },
+        "DDO": {
+          "TITLE": "Dirección de Desarrollo Organizacional",
+          "TEXT": "Diagnóstico, plan estratégico e institucionalización con razonamiento de IA y acompañamiento de expertos."
+        }
+      }
+    },
+    "CONTACT_CTA": {
+      "EYES": "Hablemos",
+      "TITLE1": "Tu capital humano,",
+      "TITLE2": "nuestra prioridad",
+      "DESCRIPTION": "Cuéntanos qué necesita tu empresa y te asesoramos.",
+      "BUTTON": "Contáctanos",
+      "CALL": "O llámanos"
+    }
+  },
+  "SERVICES": {
+    "HERO": {
+      "EYEBROW": "NUESTROS SERVICIOS",
+      "TITLE_START": "Soluciones para cada necesidad de",
+      "TITLE_END": "capital humano.",
+      "DESCRIPTION": "Cada empresa es diferente. Nos acercamos a tu organización, entendemos sus necesidades y desarrollamos soluciones que impulsan a las personas y al negocio.",
+      "BUTTON": "Hablemos de tu empresa",
+      "CARD_LINE1": "El talento es el motor",
+      "CARD_LINE2": "de cada organización.",
+      "NOTE_TITLE": "Enfoque personalizado",
+      "NOTE_TEXT": "Soluciones a tu medida",
+      "PILLAR_1": "PERSONAS",
+      "PILLAR_2": "PROCESOS",
+      "PILLAR_3": "RESULTADOS"
+    },
+    "INTRO": {
+      "LABEL": "¿CÓMO PODEMOS AYUDARTE?",
+      "TITLE_START": "El respaldo que tu empresa",
+      "TITLE_END": "necesita para crecer.",
+      "DESCRIPTION": "Te acompañamos en la gestión del talento y en los procesos que mantienen tu organización en marcha. Nuestro compromiso es ofrecer atención cercana, soluciones confiables y servicios alineados con tus objetivos."
+    },
+    "LIST": {
+      "LABEL": "NUESTRAS SOLUCIONES",
+      "TITLE": "Servicios diseñados para tu empresa",
+      "DESCRIPTION": "Conoce nuestras áreas de especialidad y encuentra el apoyo que necesitas."
+    },
+    "CARDS": {
+      "LINK": "Conocer el servicio",
+      "RECRUITMENT": {
+        "CATEGORY": "TALENTO HUMANO",
+        "TITLE": "Reclutamiento y selección de personal",
+        "DESCRIPTION": "Encontramos perfiles alineados con las necesidades de tu empresa para fortalecer tu equipo con el talento adecuado."
+      },
+      "PAYROLL": {
+        "CATEGORY": "GESTIÓN ADMINISTRATIVA",
+        "TITLE": "Nómina y seguridad social",
+        "DESCRIPTION": "Facilitamos la operación de nómina y la gestión de seguridad social con control, organización y confidencialidad."
+      },
+      "COMPLIANCE": {
+        "CATEGORY": "CUMPLIMIENTO Y GESTIÓN",
+        "TITLE": "Trámites municipales, seguridad y medio ambiente",
+        "DESCRIPTION": "Te apoyamos en la gestión de trámites y requerimientos administrativos relacionados con la operación de tu empresa."
+      },
+      "TRAINING": {
+        "CATEGORY": "DESARROLLO Y APRENDIZAJE",
+        "TITLE": "Capacitación",
+        "DESCRIPTION": "Impulsamos el desarrollo de habilidades mediante cursos de calidad, contenidos prácticos y atención personalizada."
+      }
+    },
+    "CTA": {
+      "EYEBROW": "TRABAJEMOS EN EQUIPO",
+      "TITLE_START": "Tu empresa tiene objetivos.",
+      "TITLE_END": "Te ayudamos a alcanzarlos.",
+      "DESCRIPTION": "Cuéntanos qué necesita tu organización y encontremos juntos la solución adecuada.",
+      "BUTTON": "Contactar a Dyan Consulting"
+    }
+  },
+  "ABOUT": {
+    "HERO": {
+      "TITLE1": "Las personas impulsan",
+      "TITLE2": "el crecimiento.",
+      "DESCRIPTION": "Experiencia, compromiso y atención al detalle para ayudar a las empresas a fortalecer sus Recursos Humanos y desarrollar el potencial de sus colaboradores.",
+      "CTA": "Conoce quiénes somos",
+      "CARD_LABEL": "NUESTRA ESENCIA",
+      "CARD_LINE1": "Talento humano.",
+      "CARD_LINE2": "Desarrollo organizacional.",
+      "TAGS": {
+        "PEOPLE": "Personas",
+        "COMPANIES": "Empresas",
+        "DEVELOPMENT": "Desarrollo"
+      }
+    },
+    "STORY": {
+      "EYEBROW": "QUIÉNES SOMOS",
+      "TITLE1": "Acompañamos a",
+      "TITLE2": "quienes hacen crecer",
+      "TITLE3": "tu empresa.",
+      "LEAD": "Con 10 años de experiencia, hemos respaldado a las áreas de Recursos Humanos para que puedan enfocar sus esfuerzos en el desarrollo organizacional y, por ende, en sus colaboradores.",
+      "TEXT": "Creemos en el valor de un acompañamiento cercano, las soluciones prácticas y la atención a cada detalle. Trabajamos para apoyar la identificación, el desarrollo y la administración del talento humano, de acuerdo con las necesidades de cada empresa.",
+      "SIGNATURE": "Consultoría en Recursos Humanos"
+    },
+    "EXPERIENCE": {
+      "YEARS": "años de experiencia",
+      "ITEMS": {
+        "COMMITMENT": {
+          "TITLE": "Compromiso con cada cliente",
+          "TEXT": "Soluciones prácticas y un servicio enfocado en las necesidades de Recursos Humanos."
+        },
+        "DEVELOPMENT": {
+          "TITLE": "Desarrollo continuo",
+          "TEXT": "Apoyo para impulsar el desarrollo organizacional y el talento de los colaboradores."
+        }
+      }
+    },
+    "PURPOSE": {
+      "EYEBROW": "LO QUE NOS GUÍA",
+      "TITLE1": "Un propósito claro.",
+      "TITLE2": "Una visión compartida.",
+      "TEXT": "Nuestro trabajo se orienta a brindar un servicio de calidad y contribuir al desarrollo de nuestros clientes, su personal y sus organizaciones.",
+      "MISSION": {
+        "EYEBROW": "NUESTRO PROPÓSITO",
+        "TITLE": "Misión",
+        "TEXT": "Lograr la satisfacción de nuestros clientes mediante soluciones prácticas y estrategias de apoyo en Recursos Humanos, desde la identificación, el desarrollo y la administración del talento humano, buscando siempre brindar un servicio de calidad."
+      },
+      "VISION": {
+        "EYEBROW": "HACIA DÓNDE VAMOS",
+        "TITLE": "Visión",
+        "TEXT": "Alcanzar una sólida posición en el mercado a través de un excelente servicio que supere las expectativas de nuestros clientes, buscando constantemente el desarrollo de nuestros clientes, nuestro personal y sus familias, con un claro compromiso con la responsabilidad social."
+      }
+    },
+    "VALUES": {
+      "EYEBROW": "NUESTROS PRINCIPIOS",
+      "TITLE1": "Valores que se reflejan",
+      "TITLE2": "en nuestro trabajo.",
+      "TEXT": "Cada servicio es una oportunidad para demostrar la calidad, responsabilidad y preparación con la que acompañamos a nuestros clientes.",
+      "ITEMS": {
+        "QUALITY": {
+          "TITLE": "Calidad en el servicio",
+          "TEXT": "Buscamos garantizar un trabajo cuidadoso, prestando atención al detalle en todos los aspectos de cada servicio."
+        },
+        "COMMITMENT": {
+          "TITLE": "Compromiso",
+          "TEXT": "Trabajamos para cumplir con lo pactado, en tiempo y forma, procurando mantener la confianza de nuestros clientes."
+        },
+        "UPDATE": {
+          "TITLE": "Actualización",
+          "TEXT": "Nos capacitamos y actualizamos continuamente para ofrecer alternativas acordes con las necesidades de cada empresa, sin importar su tamaño."
+        }
+      }
+    },
+    "CTA": {
+      "TITLE1": "Tu empresa crece.",
+      "TITLE2": "Las personas también.",
+      "TEXT": "Conoce nuestras soluciones de Recursos Humanos y descubre cómo podemos acompañar las necesidades de tu organización.",
+      "BUTTON": "Hablemos de tu empresa"
+    }
+  },
+  "ORG": {
+    "HERO": {
+      "TITLE1": "Convierte tu estrategia en",
+      "TITLE2": "resultados reales.",
+      "DESCRIPTION": "Desarrollo organizacional con visión de negocio, razonamiento de inteligencia artificial y acompañamiento de consultores senior para impulsar la evolución de tu empresa.",
+      "CTA": "Agenda tu sesión estratégica",
+      "SECONDARY": "Explorar programas",
+      "VISUAL_LABEL": "Ilustración de estrategia organizacional",
+      "DASH": {
+        "TITLE": "Visión estratégica",
+        "CENTER_CODE": "DO",
+        "CENTER_LABEL": "ESTRATEGIA",
+        "TAGS": {
+          "PEOPLE": "Personas",
+          "PROCESSES": "Procesos",
+          "RESULTS": "Resultados"
+        }
+      }
+    },
+    "INTRO": {
+      "LABEL": "DESARROLLO ORGANIZACIONAL",
+      "TITLE1": "Decisiones mejor fundamentadas.",
+      "TITLE2": "Organizaciones más sólidas.",
+      "P1": "Fusionamos metodologías consolidadas de Desarrollo Organizacional con algoritmos de razonamiento en inteligencia artificial. Transformamos la intuición directiva en información cuantitativa como punto de partida para las decisiones de alta dirección.",
+      "P2": "El proceso combina análisis estructurado y acompañamiento profesional para convertir los hallazgos en acciones concretas."
+    },
+    "METRICS": {
+      "LABEL": "UN PROCESO CON RUMBO",
+      "TITLE": "Claridad para avanzar, estructura para crecer.",
+      "ITEMS": {
+        "DIAGNOSIS": {
+          "VALUE": "2 horas",
+          "TITLE": "Diagnóstico organizacional",
+          "TEXT": "Evaluación cuantitativa de madurez para identificar oportunidades de mejora."
+        },
+        "ARCHITECTURE": {
+          "VALUE": "48 horas",
+          "TITLE": "Arquitectura operativa",
+          "TEXT": "De la visión a una estructura de trabajo co-creada con tu equipo."
+        },
+        "PLAN": {
+          "VALUE": "5 meses",
+          "TITLE": "Plan de implementación",
+          "TEXT": "Fases, actividades y responsables para llevar la estrategia a la operación."
+        }
+      }
+    },
+    "PROGRAMS": {
+      "LABEL": "NUESTROS PROGRAMAS SCALE UP",
+      "TITLE": "Un programa para cada nivel de intervención.",
+      "TEXT": "Soluciones diseñadas para dueños y directores que buscan profesionalizar su organización y llevarla al siguiente nivel.",
+      "INCLUDES": "¿Qué contempla?",
+      "LINK": "Conocer el programa",
+      "ITEMS": {
+        "BEGINNER": {
+          "INDEX": "INICIO",
+          "BADGE": "Sesión sin costo · Cupos limitados",
+          "SUBTITLE": "Una primera conversación para detectar oportunidades de mejora.",
+          "POINTS": {
+            "P1": "Diagnóstico de fugas financieras.",
+            "P2": "Proyección de retorno e impacto.",
+            "P3": "Acceso exclusivo y limitado."
+          }
+        },
+        "LIGHT": {
+          "INDEX": "DIAGNÓSTICO",
+          "BADGE": "Nivel 2",
+          "SUBTITLE": "Diagnóstico de madurez organizacional en solo 2 horas.",
+          "POINTS": {
+            "P1": "Evaluación numérica en 8 perspectivas clave.",
+            "P2": "Radiografía de hallazgos y fugas operativas.",
+            "P3": "Hoja de ruta táctica a 5 meses."
+          }
+        },
+        "PRO": {
+          "INDEX": "PLANEACIÓN",
+          "BADGE": "Nivel 3",
+          "SUBTITLE": "Planeación estratégica e institucionalización en un taller de 2 días.",
+          "POINTS": {
+            "P1": "Diagnóstico situacional: FODA y PESTEL.",
+            "P2": "Alineación con Balanced Scorecard.",
+            "P3": "Plan de trabajo detallado a 5 meses."
+          }
+        },
+        "MASTER": {
+          "INDEX": "INSTITUCIONALIZACIÓN",
+          "BADGE": "Nivel 4",
+          "SUBTITLE": "Acompañamiento de mes y medio para institucionalizar tu operación.",
+          "POINTS": {
+            "P1": "Ecosistema estratégico completo.",
+            "P2": "Desarrollo integral de procedimientos y políticas.",
+            "P3": "Plan de facultamiento organizacional."
+          }
+        },
+        "PREMIUM": {
+          "INDEX": "TRANSFORMACIÓN",
+          "BADGE": "Máximo nivel",
+          "SUBTITLE": "Transformación y acompañamiento estratégico para consolidar la ejecución.",
+          "POINTS": {
+            "P1": "Gestión, tablero de control y juntas de resultados.",
+            "P2": "Sesiones de coaching y asesoría directiva.",
+            "P3": "Estrategias de monetización y ejecución operativa."
+          }
+        }
+      }
+    },
+    "BENEFITS": {
+      "LABEL": "LO QUE PUEDES GANAR",
+      "TITLE": "Resultados que se notan en la operación diaria.",
+      "TEXT": "El objetivo no es generar más documentos, sino convertir la estrategia en mejoras que puedan llevarse a la práctica.",
+      "ITEMS": {
+        "DATA": {
+          "TITLE": "Decisiones con datos",
+          "TEXT": "Pasa de la intuición a indicadores cuantitativos para fundamentar las decisiones directivas."
+        },
+        "LEAKS": {
+          "TITLE": "Fugas detectadas",
+          "TEXT": "Identifica cuellos de botella que pueden afectar el margen, la productividad y los recursos."
+        },
+        "DIRECTION": {
+          "TITLE": "Rumbo claro, más rápido",
+          "TEXT": "Define una ruta de trabajo a 5 meses y reduce el tiempo invertido en discusiones sin dirección."
+        },
+        "ALIGNED": {
+          "TITLE": "Equipo alineado",
+          "TEXT": "Define misión, visión, valores, OKR y KPI vinculados con las perspectivas clave del negocio."
+        },
+        "INSTITUTION": {
+          "TITLE": "Operación institucionalizada",
+          "TEXT": "Estructura procedimientos, políticas y responsabilidades para dar mayor autonomía a la operación."
+        },
+        "EXPERTS": {
+          "TITLE": "Expertos a tu lado",
+          "TEXT": "Recibe acompañamiento de consultores senior para llevar los acuerdos estratégicos a la práctica."
+        }
+      }
+    },
+    "CLOSING": {
+      "TITLE1": "Tu próximo nivel de crecimiento comienza con",
+      "TITLE2": "una conversación estratégica.",
+      "TEXT": "Conversemos sobre los retos de tu empresa y las oportunidades que puedes desarrollar con una estrategia clara.",
+      "BUTTON": "Agenda tu sesión estratégica"
+    }
+  },
+  "CONTACT": {
+    "HERO": {
+      "TITLE1": "Tu capital humano,",
+      "TITLE2": "nuestra prioridad.",
+      "DESCRIPTION": "Cuéntanos qué necesita tu empresa. Nuestro equipo te ayudará a encontrar soluciones estratégicas para impulsar tu crecimiento.",
+      "LINK": "Conversemos sobre tus objetivos",
+      "CARD_TITLE": "Las personas impulsan los resultados.",
+      "CARD_TEXT": "Construyamos juntos el siguiente paso de tu empresa.",
+      "BOTTOM1": "CONSULTORÍA EN RECURSOS HUMANOS",
+      "BOTTOM2": "QUERÉTARO, MÉXICO"
+    },
+    "SECTION": {
+      "TITLE1": "Hagamos que las cosas",
+      "TITLE2": "sucedan.",
+      "TEXT": "Comparte tus necesidades con nosotros. Queremos conocer tu contexto y ayudarte a identificar la mejor solución."
+    },
+    "INFO": {
+      "KICKER": "CONTACTO DIRECTO",
+      "TITLE": "Conectemos.",
+      "TEXT": "El primer paso para mejorar comienza con una conversación.",
+      "PHONE": "Teléfono",
+      "EMAIL": "Correo electrónico",
+      "WEB": "Sitio web",
+      "LOCATION_LABEL": "Ubicación",
+      "LOCATION": "Querétaro, México",
+      "NOTE": "Cada empresa tiene retos distintos. Hablemos de los tuyos."
+    },
+    "FORM": {
+      "STEP": "INICIEMOS",
+      "TITLE": "Cuéntanos sobre tu proyecto.",
+      "TEXT": "Completa el formulario y nos pondremos en contacto contigo.",
+      "NAME": "Nombre completo",
+      "NAME_PLACEHOLDER": "¿Cómo te llamas?",
+      "EMAIL": "Correo electrónico",
+      "EMAIL_PLACEHOLDER": "nombre@empresa.com",
+      "COMPANY": "Nombre de la empresa",
+      "COMPANY_PLACEHOLDER": "¿Dónde trabajas?",
+      "MESSAGE": "¿Cómo podemos ayudarte?",
+      "MESSAGE_PLACEHOLDER": "Cuéntanos brevemente qué necesita tu empresa...",
+      "REQUIRED": "Campos obligatorios",
+      "SUBMIT": "Enviar mensaje",
+      "SENDING": "Enviando mensaje...",
+      "SUCCESS": "¡Gracias! Recibimos tu mensaje y nos pondremos en contacto contigo pronto.",
+      "ERROR": "No pudimos enviar tu mensaje. Inténtalo de nuevo o escríbenos por correo."
+    },
+    "BOTTOM": {
+      "TITLE1": "El siguiente paso comienza",
+      "TITLE2": "con una conversación.",
+      "BUTTON": "Llámanos"
+    }
+  },
+  "RECRUITMENT": {
+    "HERO": {
+      "TITLE_1": "Encontramos el talento",
+      "TITLE_2": "que impulsa tu empresa.",
+      "DESCRIPTION": "Conectamos a tu organización con las personas adecuadas, combinando estrategias de selección, evaluación profesional y tecnología para agilizar la cobertura de tus vacantes.",
+      "ACTION_PRIMARY": "Encuentra tu próximo talento",
+      "ACTION_SECONDARY": "Conoce nuestro proceso"
+    },
+    "VISUAL_CARD": {
+      "LABEL": "DYAN TALENT SOLUTIONS",
+      "MESSAGE_1": "El talento correcto.",
+      "MESSAGE_GRADIENT": "El futuro de tu empresa.",
+      "DESCRIPTION": "Personas que hacen crecer organizaciones.",
+      "STATUS": "PROCESO ESTRATÉGICO"
+    },
+    "INTRO": {
+      "EYEBROW": "RECLUTAMIENTO Y SELECCIÓN",
+      "TITLE_1": "Más que cubrir vacantes,",
+      "TITLE_2": "encontramos compatibilidad.",
+      "LEAD": "Asumimos tus necesidades de contratación como propias.",
+      "TEXT": "Ofrecemos soluciones de reclutamiento a la medida, potenciadas por aplicaciones móviles con inteligencia artificial que agilizan la selección y cobertura de vacantes con talento adecuado para tu empresa.",
+      "LINK": "Hablemos de tus vacantes",
+      "HIGHLIGHTS": {
+        "CARD_1": {
+          "TITLE": "Perfiles adecuados",
+          "DESC": "Buscamos candidatos alineados con los requisitos de cada posición."
+        },
+        "CARD_2": {
+          "TITLE": "Innovación aplicada",
+          "DESC": "Integramos herramientas móviles con inteligencia artificial en los procesos de selección."
+        },
+        "CARD_3": {
+          "TITLE": "Procesos ágiles",
+          "DESC": "Organizamos cada etapa para facilitar la cobertura de las vacantes."
+        }
+      }
+    },
+    "INCLUDES": {
+      "EYEBROW": "NUESTRO SERVICIO",
+      "TITLE_1": "Un proceso pensado",
+      "TITLE_2": "para elegir mejor.",
+      "DESCRIPTION": "Acompañamos las etapas clave de contratación para identificar candidatos que respondan a las necesidades de tu organización.",
+      "PROCESS": {
+        "01": {
+          "TITLE": "Publicación de vacante",
+          "DESC": "Difusión de la oportunidad laboral para atraer candidatos potenciales."
+        },
+        "02": {
+          "TITLE": "Entrevista inicial",
+          "DESC": "Primer acercamiento para conocer la experiencia, habilidades y expectativas del candidato."
+        },
+        "03": {
+          "TITLE": "Tests psicométricos",
+          "DESC": "Aplicación de pruebas para complementar la evaluación del perfil, según los requerimientos del puesto."
+        },
+        "04": {
+          "TITLE": "Referencias laborales",
+          "DESC": "Solicitud de referencias para obtener información complementaria de la trayectoria profesional."
+        },
+        "05": {
+          "TITLE": "Entrevistas finales",
+          "DESC": "Coordinación de entrevistas finales con una terna de hasta tres candidatos."
+        },
+        "06": {
+          "TITLE": "Propuesta económica",
+          "DESC": "Envío de la propuesta económica correspondiente al candidato seleccionado."
+        }
+      }
+    },
+    "MASS": {
+      "EYEBROW": "SOLUCIONES PARA TU CRECIMIENTO",
+      "TITLE_1": "¿Necesitas contratar",
+      "TITLE_2": "a gran escala?",
+      "DESCRIPTION": "Agilizamos el reclutamiento masivo mediante procesos estratégicos de atracción, selección y evaluación de talento, identificando a los candidatos que mejor se ajustan a las necesidades de tu empresa.",
+      "BUTTON": "Cuéntanos tu necesidad",
+      "PANEL": {
+        "LABEL": "NUESTRO ENFOQUE",
+        "S1_TITLE": "Atracción",
+        "S1_DESC": "Conectamos con perfiles potenciales.",
+        "S2_TITLE": "Evaluación",
+        "S2_DESC": "Identificamos la compatibilidad del perfil.",
+        "S3_TITLE": "Selección",
+        "S3_DESC": "Facilitamos la decisión de contratación.",
+        "QUOTE": "El trabajo a detalle es nuestro método de trabajo, así garantizamos un índice de error mínimo."
+      }
+    },
+    "OBJECTIVE": {
+      "EYEBROW": "NUESTRO OBJETIVO",
+      "TITLE_1": "El talento adecuado,",
+      "TITLE_2": "en el lugar correcto.",
+      "DESCRIPTION": "Cubrir las vacantes de acuerdo con las necesidades y requerimientos de cada empresa, contribuyendo a la formación de equipos alineados con sus objetivos."
+    },
+    "CTA": {
+      "EYEBROW": "ESTAMOS PARA AYUDARTE",
+      "TITLE_1": "Tu próximo gran equipo",
+      "TITLE_2": "comienza con una decisión.",
+      "DESCRIPTION": "Cuéntanos qué perfiles necesita tu empresa. Diseñemos una solución de reclutamiento a tu medida.",
+      "BUTTON": "Contáctanos"
+    }
+  },
+  "PAYROLL": {
+    "HERO": {
+      "TITLE_1": "Nómina y",
+      "TITLE_2": "seguridad social",
+      "DESCRIPTION": "Operación integral, control y confidencialidad.",
+      "ACTION": "Solicitar información"
+    },
+    "VISUAL_CARD": {
+      "STATUS": "Gestión integral",
+      "LABEL": "Administración de nómina",
+      "TITLE": "Precisión en cada proceso.",
+      "FEATURE_1": "Cálculos y prestaciones",
+      "FEATURE_2": "Obligaciones de seguridad social",
+      "FEATURE_3": "Información confidencial"
+    },
+    "INTRO": {
+      "LABEL": "NUESTRO SERVICIO",
+      "TITLE_1": "Tu nómina en manos",
+      "TITLE_2": "de especialistas.",
+      "PARAGRAPH_1": "Nos convertimos en el área operativa de tu departamento de nóminas mediante la maquila de este servicio. Así, tu empresa obtiene una solución integral que brinda seguridad en los procesos, exactitud en los cálculos de IMSS, INFONAVIT y otras obligaciones, además de confidencialidad en el manejo de tu información.",
+      "PARAGRAPH_2": "Nos enfocamos en simplificar la operación, mantener el control administrativo y ayudarte a gestionar tus responsabilidades laborales con mayor tranquilidad."
+    },
+    "BENEFICIOS": {
+      "CARD_1": {
+        "TITLE": "Precisión",
+        "DESC": "Cálculos de nómina y prestaciones con atención a cada detalle."
+      },
+      "CARD_2": {
+        "TITLE": "Seguridad",
+        "DESC": "Seguimiento de obligaciones laborales y de seguridad social."
+      },
+      "CARD_3": {
+        "TITLE": "Confidencialidad",
+        "DESC": "Manejo responsable de la información de tu empresa y colaboradores."
+      }
+    },
+    "DETAIL": {
+      "LABEL": "ALCANCE DEL SERVICIO",
+      "TITLE_1": "¿Qué incluye",
+      "TITLE_2": "nuestro servicio?",
+      "DESCRIPTION": "Soluciones operativas para mantener tu nómina organizada y tus procesos bajo control.",
+      "ASIDE": {
+        "TITLE": "Gestión integral de nómina",
+        "DESC": "Nos adaptamos a las necesidades operativas de tu organización para brindarte soporte en los principales procesos de nómina y seguridad social.",
+        "LINK": "Hablemos de tu empresa"
+      },
+      "SERVICES": {
+        "ITEM_1": {
+          "TITLE": "Elaboración de nómina",
+          "DESC": "Procesamiento semanal, quincenal o conforme a las necesidades de tu empresa."
+        },
+        "ITEM_2": {
+          "TITLE": "Impuestos y obligaciones",
+          "DESC": "Cálculo y control de obligaciones de IMSS, INFONAVIT, FONACOT y generación de archivos para su pago."
+        },
+        "ITEM_3": {
+          "TITLE": "Cálculo de prestaciones",
+          "DESC": "Aguinaldo, vacaciones, prima vacacional, fondo de ahorro, PTU y otras prestaciones otorgadas por la empresa."
+        },
+        "ITEM_4": {
+          "TITLE": "Reportes de nómina",
+          "DESC": "Elaboración de reportes de nómina de acuerdo con los requerimientos de tu organización."
+        },
+        "ITEM_5": {
+          "TITLE": "Cálculo de SUA e impuesto sobre nómina",
+          "DESC": "Apoyo en la determinación de cuotas obrero-patronales (COP) mensuales, retiro, cesantía y vejez (RCV) bimestral, así como impuesto sobre nómina."
+        },
+        "ITEM_6": {
+          "TITLE": "Retenciones INFONAVIT",
+          "DESC": "Solicitud de hojas de retención cuando el trabajador no las presenta al ingresar a la empresa."
+        },
+        "ITEM_7": {
+          "TITLE": "Administración de movimientos IDSE",
+          "DESC": "Gestión de altas, bajas y modificaciones de salario ante el IMSS mediante el portal correspondiente."
+        },
+        "ITEM_8": {
+          "TITLE": "Prima de riesgo de trabajo",
+          "DESC": "Apoyo en la preparación de la declaración anual de la prima de riesgo de trabajo ante el IMSS."
+        }
+      }
+    },
+    "CTA": {
+      "LABEL": "HAGAMOS EQUIPO",
+      "TITLE_1": "¿Te interesa este servicio?",
+      "TITLE_2": "Hablemos de lo que tu empresa necesita.",
+      "DESCRIPTION": "Simplifica tus procesos de nómina con el acompañamiento de Dyan Consulting.",
+      "BUTTON": "Contáctanos"
+    }
+  },
+  "PERMITS": {
+    "HERO": {
+      "TITLE_1": "Trámites municipales,",
+      "TITLE_2": "seguridad y medio ambiente",
+      "DESCRIPTION": "Gestión de trámites relacionados con las necesidades administrativas, normativas y operativas de tu empresa.",
+      "ACTION": "Solicitar información"
+    },
+    "VISUAL_CARD": {
+      "STATUS": "Gestión empresarial",
+      "LABEL": "Cumplimiento y prevención",
+      "TITLE": "Tu empresa preparada para operar.",
+      "FEATURE_1": "Trámites y permisos",
+      "FEATURE_2": "Seguridad e higiene",
+      "FEATURE_3": "Gestión ambiental"
+    },
+    "INTRO": {
+      "LABEL": "NUESTRO SERVICIO",
+      "TITLE_1": "Gestionamos los detalles",
+      "TITLE_2": "para que tú avances.",
+      "PARAGRAPH_1": "Acompañamos a tu empresa en la gestión de trámites municipales, requisitos administrativos y procesos relacionados con la seguridad, higiene y medio ambiente.",
+      "PARAGRAPH_2": "Nuestro objetivo es ayudarte a identificar y atender los requerimientos aplicables a tu operación, promoviendo espacios de trabajo más seguros y una gestión organizada de tus obligaciones."
+    },
+    "CATEGORIES": {
+      "CARD_1": {
+        "EYEBROW": "GESTIÓN ADMINISTRATIVA",
+        "TITLE": "Trámites y permisos",
+        "DESC": "Apoyo en gestiones y documentación relacionada con la operación formal de tu empresa.",
+        "LINK": "Conocer los trámites"
+      },
+      "CARD_2": {
+        "EYEBROW": "PREVENCIÓN Y PROTECCIÓN",
+        "TITLE": "Seguridad e higiene",
+        "DESC": "Identificación de necesidades preventivas y apoyo en aspectos de seguridad para los centros de trabajo.",
+        "LINK": "Conocer las áreas"
+      },
+      "CARD_3": {
+        "EYEBROW": "RESPONSABILIDAD AMBIENTAL",
+        "TITLE": "Gestión ambiental",
+        "DESC": "Orientación en gestiones ambientales que correspondan a las características y actividades de tu empresa.",
+        "LINK": "Conocer los trámites"
+      }
+    },
+    "ADMIN_PROCEDURES": {
+      "LABEL": "GESTIÓN Y DOCUMENTACIÓN",
+      "TITLE_1": "Trámites",
+      "TITLE_2": "administrativos.",
+      "DESCRIPTION": "Apoyo en las gestiones necesarias para atender los requerimientos administrativos de tu organización, según su actividad y ubicación.",
+      "ITEM_1": {
+        "TITLE": "Licencia municipal",
+        "DESC": "Apoyo en la gestión de la licencia correspondiente para el funcionamiento del establecimiento."
+      },
+      "ITEM_2": {
+        "TITLE": "Visto bueno de Protección Civil",
+        "DESC": "Orientación y gestión documental relacionada con los requisitos de Protección Civil aplicables al establecimiento."
+      },
+      "ITEM_3": {
+        "TITLE": "Registro ambiental ante SEMARNAT",
+        "DESC": "Apoyo en la identificación y gestión de trámites ambientales que correspondan a las actividades de la empresa."
+      },
+      "ITEM_4": {
+        "TITLE": "Registro patronal ante el IMSS",
+        "DESC": "Apoyo en la gestión del registro patronal y en la presentación de la prima de riesgo de trabajo, según corresponda."
+      }
+    },
+    "SAFETY": {
+      "LABEL": "PREVENCIÓN EN EL TRABAJO",
+      "TITLE_1": "Seguridad",
+      "TITLE_2": "e higiene.",
+      "DESCRIPTION": "Áreas de prevención y seguridad que pueden requerir atención de acuerdo con las actividades, instalaciones y riesgos de cada centro de trabajo.",
+      "ITEMS": {
+        "PRESSURE_VESSELS": "Recipientes sujetos a presión",
+        "HEIGHT_SAFETY": "Seguridad en trabajo en alturas",
+        "SIGNAGE": "Señalética",
+        "CHEMICALS": "Sustancias químicas",
+        "FIRE_BRIGADE": "Brigada de prevención y combate de incendios",
+        "FIRST_AID_BRIGADE": "Brigada de primeros auxilios",
+        "RESCUE_BRIGADE": "Brigada de búsqueda y rescate",
+        "EVACUATION_BRIGADE": "Brigada de evacuación",
+        "PPE": "Equipo de protección personal",
+        "ACCIDENT_INVESTIGATION": "Investigación de accidentes",
+        "MACHINERY_PROTECTION": "Sistemas de protección y dispositivos de seguridad en maquinaria y equipo de trabajo",
+        "ELECTRICAL_MAINTENANCE": "Mantenimiento de instalaciones eléctricas"
+      },
+      "NOTE": {
+        "HIGHLIGHT": "Cada empresa tiene necesidades distintas.",
+        "TEXT": "Los requisitos, estudios y medidas aplicables dependen de la actividad, las instalaciones y la normativa vigente."
+      }
+    },
+    "CTA": {
+      "LABEL": "HAGAMOS EQUIPO",
+      "TITLE_1": "¿Te interesa este servicio?",
+      "TITLE_2": "Cuéntanos qué necesita tu empresa.",
+      "DESCRIPTION": "Conversemos sobre tus necesidades administrativas, de seguridad y de gestión ambiental.",
+      "BUTTON": "Contáctanos"
+    }
+  },
+  "TRAINING": {
+    "HERO": {
+      "TITLE_1": "Impulsamos el talento.",
+      "TITLE_2": "Potenciamos el futuro.",
+      "DESCRIPTION": "Cursos de alta calidad y trato personalizado para desarrollar habilidades, fortalecer equipos y llevar el potencial de tu organización al siguiente nivel.",
+      "ACTION": "Explorar cursos",
+      "TRUST": "Formación adaptada a las necesidades de tu empresa"
+    },
+    "VISUAL_CARD": {
+      "TAG": "DESARROLLO CONTINUO",
+      "LABEL": "Aprender para crecer",
+      "TITLE_1": "El talento se desarrolla.",
+      "TITLE_2": "El potencial se transforma.",
+      "TOPIC_1": "Liderazgo y habilidades directivas",
+      "TOPIC_2": "Desarrollo personal y profesional",
+      "TOPIC_3": "Competencias para el futuro"
+    },
+    "BACK": "Todos los servicios",
+    "INTRO": {
+      "LABEL": "FORMACIÓN EMPRESARIAL",
+      "TITLE_1": "Conocimiento que",
+      "TITLE_2": "se convierte en resultados.",
+      "PARAGRAPH_1": "Brindamos cursos de alta calidad gracias a nuestro equipo de instructores, que cuentan con conocimiento y experiencia en los temas impartidos.",
+      "PARAGRAPH_2": "Diseñamos experiencias de aprendizaje que responden a las necesidades de cada organización, ayudando a fortalecer competencias, mejorar el desempeño y desarrollar el talento de las personas."
+    },
+    "CATEGORIES": {
+      "CAT_1": "Formación",
+      "CAT_2": "Fiscales",
+      "CAT_3": "Liderazgo",
+      "CAT_4": "Desarrollo ejecutivo",
+      "CAT_5": "Ventas",
+      "CAT_6": "Seguridad e higiene"
+    },
+    "CATALOG": {
+      "LABEL": "CATÁLOGO DE CURSOS",
+      "TITLE_1": "Encuentra el siguiente",
+      "TITLE_2": "paso para tu equipo.",
+      "DESCRIPTION": "Explora nuestras áreas de formación y encuentra cursos que respondan a los objetivos de tu organización."
+    },
+    "SECTIONS": {
+      "S1": {
+        "EYEBROW": "COMUNICACIÓN Y ENSEÑANZA",
+        "TITLE": "Formación",
+        "COUNT": "04 cursos",
+        "COURSES": {
+          "C1": {
+            "TITLE": "Formación de instructores internos",
+            "DESC": "Desarrolla las habilidades necesarias para transmitir conocimientos y facilitar el aprendizaje dentro de la empresa."
+          },
+          "C2": {
+            "TITLE": "Presentaciones efectivas",
+            "DESC": "Organiza ideas y comunica mensajes con claridad, seguridad e impacto."
+          },
+          "C3": {
+            "TITLE": "Cómo hablar en público y cautivar a tu audiencia",
+            "DESC": "Fortalece la expresión oral, la confianza y la conexión con diferentes audiencias."
+          },
+          "C4": {
+            "TITLE": "Formación de instructores",
+            "DESC": "Aprende herramientas para estructurar e impartir sesiones de capacitación efectivas."
+          }
+        }
+      },
+      "S2": {
+        "EYEBROW": "ADMINISTRACIÓN Y CUMPLIMIENTO",
+        "TITLE": "Fiscales",
+        "COUNT": "03 cursos",
+        "COURSES": {
+          "C1": {
+            "TITLE": "ABC de nóminas",
+            "DESC": "Comprende los conceptos fundamentales para la administración y gestión de nóminas."
+          },
+          "C2": {
+            "TITLE": "Conceptos básicos del derecho laboral",
+            "DESC": "Conoce los principios laborales esenciales para la gestión de las relaciones de trabajo."
+          },
+          "C3": {
+            "TITLE": "Administración de SIROC",
+            "DESC": "Conoce aspectos fundamentales de la administración y operación del sistema SIROC."
+          }
+        }
+      },
+      "S3": {
+        "EYEBROW": "EQUIPOS Y DESARROLLO DE PERSONAS",
+        "TITLE": "Liderazgo y formación de personal",
+        "COUNT": "12 cursos",
+        "COURSES": {
+          "C1": "Employee Experience: Rediseñando la Experiencia del Empleado",
+          "C2": "Coaching Ejecutivo y Mentoring para el Desarrollo del Talento",
+          "C3": "Liderazgo Ágil: Preparando Equipos para el Futuro",
+          "C4": "Liderazgo Situacional para liderar de forma efectiva",
+          "C5": "Comunicación para un liderazgo efectivo",
+          "C6": "Desarrollo de Habilidades Gerenciales",
+          "C7": "Desarrollo de Habilidades Directivas",
+          "C8": "Retroalimentación y reconocimiento: Herramientas Definitivas del Líder Exitoso",
+          "C9": "El poder de la Comunicación para el líder del siglo XXI",
+          "C10": "Comunicación",
+          "C11": "Liderazgo",
+          "C12": "Trabajo en equipo"
+        }
+      },
+      "S4": {
+        "EYEBROW": "VISIÓN Y CRECIMIENTO",
+        "TITLE": "Desarrollo ejecutivo",
+        "COUNT": "10 cursos",
+        "COURSES": {
+          "C1": "Empatía y relaciones interpersonales efectivas",
+          "C2": "Creatividad: Los seis sombreros para pensar",
+          "C3": "Aplicación de la Inteligencia Emocional en la toma de decisiones organizacionales",
+          "C4": "Estrategias de bienestar y balance vida-trabajo",
+          "C5": "Aplicación de los siete hábitos de la gente altamente efectiva",
+          "C6": "Coaching Ejecutivo y Mentoring para el Desarrollo del Talento",
+          "C7": "Mindfulness en el Trabajo: Herramientas para la Productividad y el Bienestar",
+          "C8": "Formación de equipos de trabajo de alto desempeño",
+          "C9": "Desarrollo personal con programación neurolingüística",
+          "C10_BADGE": "INNOVACIÓN",
+          "C10_TITLE": "IA para Ejecutivos",
+          "C10_DESC": "Explora cómo integrar la inteligencia artificial en el análisis, la productividad y la toma de decisiones."
+        }
+      },
+      "S5": {
+        "EYEBROW": "NEGOCIACIÓN Y EXPERIENCIA DEL CLIENTE",
+        "TITLE": "Ventas",
+        "COUNT": "07 cursos",
+        "COURSES": {
+          "C1": "Cierre efectivo de ventas",
+          "C2": "Técnicas de ventas",
+          "C3": "Prospección efectiva: Base de las Ventas Exitosas",
+          "C4": "Administración / Educación financiera",
+          "C5": "Finanzas para no financieros",
+          "C6": "Atención y servicio al cliente",
+          "C7": "Inteligencia Emocional para el Servicio al Cliente en Empresas de Servicios"
+        }
+      },
+      "S6": {
+        "EYEBROW": "PREVENCIÓN Y SEGURIDAD LABORAL",
+        "TITLE": "Seguridad e higiene",
+        "COUNT": "12 temas",
+        "COURSES": {
+          "C1": "Recipientes sujetos a presión",
+          "C2": "Seguridad en trabajo en alturas",
+          "C3": "Señalética",
+          "C4": "Sustancias químicas",
+          "C5": "Brigada de prevención y combate de incendios",
+          "C6": "Brigada de primeros auxilios",
+          "C7": "Brigada de búsqueda y rescate",
+          "C8": "Brigada de evacuación",
+          "C9": "Equipo de protección personal",
+          "C10": "Investigación de accidentes",
+          "C11": "Sistemas de protección y dispositivos de seguridad en maquinaria y equipo de trabajo",
+          "C12": "Mantenimiento de instalaciones eléctricas"
+        }
+      }
+    },
+    "PERSONALIZED": {
+      "LABEL": "CAPACITACIÓN A TU MEDIDA",
+      "TITLE": "Tu equipo es único. Su formación también.",
+      "DESCRIPTION": "Nos acercamos a nuestros clientes para entender sus verdaderas necesidades en capacitación, reclutamiento y selección, maquila de nómina y otros servicios relacionados con capital humano. Podemos ayudarte a identificar los cursos que mejor se adapten a los objetivos de tu organización."
+    },
+    "CTA": {
+      "LABEL": "HAGAMOS EQUIPO",
+      "TITLE_1": "¿Te interesa este servicio?",
+      "TITLE_2": "Cuéntanos qué necesita tu empresa.",
+      "DESCRIPTION": "Diseñemos juntos una experiencia de aprendizaje alineada con los retos y objetivos de tu organización.",
+      "BUTTON": "Contáctanos"
+    }
+  }
+}

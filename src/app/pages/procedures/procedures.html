@@ -1,0 +1,428 @@
+<main class="permits-page">
+  <!-- HERO -->
+  <section class="permits-hero">
+    <div class="permits-hero__grid"></div>
+    <div class="permits-hero__glow permits-hero__glow--one"></div>
+    <div class="permits-hero__glow permits-hero__glow--two"></div>
+
+    <div class="permits-container permits-hero__content">
+      <div class="permits-hero__copy">
+        <h1>
+          {{ 'PERMITS.HERO.TITLE_1' | translate }}
+          <span>{{ 'PERMITS.HERO.TITLE_2' | translate }}</span>
+        </h1>
+
+        <p class="permits-hero__description">
+          {{ 'PERMITS.HERO.DESCRIPTION' | translate }}
+        </p>
+
+        <a href="/contact" class="permits-button permits-button--primary">
+          {{ 'PERMITS.HERO.ACTION' | translate }}
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M5 12h14M13 6l6 6-6 6" />
+          </svg>
+        </a>
+      </div>
+
+      <div class="permits-hero__visual" aria-hidden="true">
+        <div class="permits-visual-card">
+          <div class="permits-visual-card__top">
+            <div class="permits-visual-card__icon">
+              <svg viewBox="0 0 24 24">
+                <path d="M4 21h16M6 21V8l6-4 6 4v13M9 11h1M14 11h1M9 15h1M14 15h1M10 21v-3h4v3" />
+              </svg>
+            </div>
+
+            <span class="permits-visual-card__status">
+              {{ 'PERMITS.VISUAL_CARD.STATUS' | translate }}
+            </span>
+          </div>
+
+          <p class="permits-visual-card__label">{{ 'PERMITS.VISUAL_CARD.LABEL' | translate }}</p>
+
+          <h2>{{ 'PERMITS.VISUAL_CARD.TITLE' | translate }}</h2>
+
+          <div class="permits-visual-card__divider"></div>
+
+          <div class="permits-visual-card__features">
+            <div>
+              <span class="permits-feature-dot"></span>
+              <span>{{ 'PERMITS.VISUAL_CARD.FEATURE_1' | translate }}</span>
+            </div>
+
+            <div>
+              <span class="permits-feature-dot"></span>
+              <span>{{ 'PERMITS.VISUAL_CARD.FEATURE_2' | translate }}</span>
+            </div>
+
+            <div>
+              <span class="permits-feature-dot"></span>
+              <span>{{ 'PERMITS.VISUAL_CARD.FEATURE_3' | translate }}</span>
+            </div>
+          </div>
+
+          <div class="permits-visual-card__decoration">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </div>
+
+        <div class="permits-hero__orb permits-hero__orb--one"></div>
+        <div class="permits-hero__orb permits-hero__orb--two"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTENIDO -->
+  <section class="permits-section">
+    <div class="permits-container">
+      <div class="permits-intro">
+        <div class="permits-intro__heading">
+          <span class="permits-section-label">{{ 'PERMITS.INTRO.LABEL' | translate }}</span>
+
+          <h2>
+            {{ 'PERMITS.INTRO.TITLE_1' | translate }}
+            <span>{{ 'PERMITS.INTRO.TITLE_2' | translate }}</span>
+          </h2>
+        </div>
+
+        <div class="permits-intro__text">
+          <p>
+            {{ 'PERMITS.INTRO.PARAGRAPH_1' | translate }}
+          </p>
+
+          <p>
+            {{ 'PERMITS.INTRO.PARAGRAPH_2' | translate }}
+          </p>
+        </div>
+      </div>
+
+      <!-- CATEGORÍAS -->
+      <div class="permits-categories">
+        <article class="permits-category-card">
+          <div class="permits-category-card__top">
+            <span class="permits-category-card__number">01</span>
+
+            <div class="permits-category-card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M4 21h16M6 21V8l6-4 6 4v13M9 11h1M14 11h1M9 15h1M14 15h1" />
+              </svg>
+            </div>
+          </div>
+
+          <span class="permits-category-card__eyebrow">
+            {{ 'PERMITS.CATEGORIES.CARD_1.EYEBROW' | translate }}
+          </span>
+
+          <h3>{{ 'PERMITS.CATEGORIES.CARD_1.TITLE' | translate }}</h3>
+
+          <p>
+            {{ 'PERMITS.CATEGORIES.CARD_1.DESC' | translate }}
+          </p>
+
+          <a href="#permits-tramites" class="permits-category-card__link">
+            {{ 'PERMITS.CATEGORIES.CARD_1.LINK' | translate }}
+            <span aria-hidden="true">↓</span>
+          </a>
+        </article>
+
+        <article class="permits-category-card permits-category-card--featured">
+          <div class="permits-category-card__top">
+            <span class="permits-category-card__number">02</span>
+
+            <div class="permits-category-card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M12 22s8-4 8-11V5l-8-3-8 3v6c0 7 8 11 8 11Z" />
+                <path d="m9 12 2 2 4-4" />
+              </svg>
+            </div>
+          </div>
+
+          <span class="permits-category-card__eyebrow">
+            {{ 'PERMITS.CATEGORIES.CARD_2.EYEBROW' | translate }}
+          </span>
+
+          <h3>{{ 'PERMITS.CATEGORIES.CARD_2.TITLE' | translate }}</h3>
+
+          <p>
+            {{ 'PERMITS.CATEGORIES.CARD_2.DESC' | translate }}
+          </p>
+
+          <a href="#permits-seguridad" class="permits-category-card__link">
+            {{ 'PERMITS.CATEGORIES.CARD_2.LINK' | translate }}
+            <span aria-hidden="true">↓</span>
+          </a>
+        </article>
+
+        <article class="permits-category-card">
+          <div class="permits-category-card__top">
+            <span class="permits-category-card__number">03</span>
+
+            <div class="permits-category-card__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M12 22c4.5-3 7-7 7-12-4 0-7 2-9 5-1-2-3-3-5-3 0 5 2 8 7 10Z" />
+                <path d="M5 21c2-5 5-8 10-11" />
+              </svg>
+            </div>
+          </div>
+
+          <span class="permits-category-card__eyebrow">
+            {{ 'PERMITS.CATEGORIES.CARD_3.EYEBROW' | translate }}
+          </span>
+
+          <h3>{{ 'PERMITS.CATEGORIES.CARD_3.TITLE' | translate }}</h3>
+
+          <p>
+            {{ 'PERMITS.CATEGORIES.CARD_3.DESC' | translate }}
+          </p>
+
+          <a href="#permits-tramites" class="permits-category-card__link">
+            {{ 'PERMITS.CATEGORIES.CARD_3.LINK' | translate }}
+            <span aria-hidden="true">↓</span>
+          </a>
+        </article>
+      </div>
+
+      <!-- TRÁMITES -->
+      <section class="permits-detail" id="permits-tramites">
+        <div class="permits-detail__header">
+          <div>
+            <span class="permits-section-label">{{
+              'PERMITS.ADMIN_PROCEDURES.LABEL' | translate
+            }}</span>
+
+            <h2>
+              {{ 'PERMITS.ADMIN_PROCEDURES.TITLE_1' | translate }}
+              <span>{{ 'PERMITS.ADMIN_PROCEDURES.TITLE_2' | translate }}</span>
+            </h2>
+          </div>
+
+          <p>
+            {{ 'PERMITS.ADMIN_PROCEDURES.DESCRIPTION' | translate }}
+          </p>
+        </div>
+
+        <div class="permits-detail__grid">
+          <article class="permits-service-item">
+            <span class="permits-service-item__check">✓</span>
+            <div>
+              <h3>{{ 'PERMITS.ADMIN_PROCEDURES.ITEM_1.TITLE' | translate }}</h3>
+              <p>
+                {{ 'PERMITS.ADMIN_PROCEDURES.ITEM_1.DESC' | translate }}
+              </p>
+            </div>
+          </article>
+
+          <article class="permits-service-item">
+            <span class="permits-service-item__check">✓</span>
+            <div>
+              <h3>{{ 'PERMITS.ADMIN_PROCEDURES.ITEM_2.TITLE' | translate }}</h3>
+              <p>
+                {{ 'PERMITS.ADMIN_PROCEDURES.ITEM_2.DESC' | translate }}
+              </p>
+            </div>
+          </article>
+
+          <article class="permits-service-item">
+            <span class="permits-service-item__check">✓</span>
+            <div>
+              <h3>{{ 'PERMITS.ADMIN_PROCEDURES.ITEM_3.TITLE' | translate }}</h3>
+              <p>
+                {{ 'PERMITS.ADMIN_PROCEDURES.ITEM_3.DESC' | translate }}
+              </p>
+            </div>
+          </article>
+
+          <article class="permits-service-item">
+            <span class="permits-service-item__check">✓</span>
+            <div>
+              <h3>{{ 'PERMITS.ADMIN_PROCEDURES.ITEM_4.TITLE' | translate }}</h3>
+              <p>
+                {{ 'PERMITS.ADMIN_PROCEDURES.ITEM_4.DESC' | translate }}
+              </p>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <!-- SEGURIDAD E HIGIENE -->
+      <section class="permits-detail permits-detail--safety" id="permits-seguridad">
+        <div class="permits-detail__header">
+          <div>
+            <span class="permits-section-label">{{ 'PERMITS.SAFETY.LABEL' | translate }}</span>
+
+            <h2>
+              {{ 'PERMITS.SAFETY.TITLE_1' | translate }}
+              <span>{{ 'PERMITS.SAFETY.TITLE_2' | translate }}</span>
+            </h2>
+          </div>
+
+          <p>
+            {{ 'PERMITS.SAFETY.DESCRIPTION' | translate }}
+          </p>
+        </div>
+
+        <div class="permits-safety-grid">
+          <article class="permits-safety-item">
+            <span class="permits-safety-item__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <circle cx="12" cy="12" r="9" />
+                <path d="M12 7v5l3 2" />
+              </svg>
+            </span>
+            <span>{{ 'PERMITS.SAFETY.ITEMS.PRESSURE_VESSELS' | translate }}</span>
+          </article>
+
+          <article class="permits-safety-item">
+            <span class="permits-safety-item__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M4 21h16M6 21V5h12v16M9 9h2M13 9h2M9 13h2M13 13h2" />
+              </svg>
+            </span>
+            <span>{{ 'PERMITS.SAFETY.ITEMS.HEIGHT_SAFETY' | translate }}</span>
+          </article>
+
+          <article class="permits-safety-item">
+            <span class="permits-safety-item__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4zM14 14h6v6h-6z" />
+              </svg>
+            </span>
+            <span>{{ 'PERMITS.SAFETY.ITEMS.SIGNAGE' | translate }}</span>
+          </article>
+
+          <article class="permits-safety-item">
+            <span class="permits-safety-item__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M12 22s8-4 8-11V5l-8-3-8 3v6c0 7 8 11 8 11Z" />
+                <path d="M12 8v4M12 16h.01" />
+              </svg>
+            </span>
+            <span>{{ 'PERMITS.SAFETY.ITEMS.CHEMICALS' | translate }}</span>
+          </article>
+
+          <article class="permits-safety-item">
+            <span class="permits-safety-item__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M12 3 14 8l5-2-2 5 4 3-5 1-1 5-3-4-4 3 1-5-5-2 5-2z" />
+              </svg>
+            </span>
+            <span>{{ 'PERMITS.SAFETY.ITEMS.FIRE_BRIGADE' | translate }}</span>
+          </article>
+
+          <article class="permits-safety-item">
+            <span class="permits-safety-item__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M12 21s8-4 8-11V5l-8-3-8 3v5c0 7 8 11 8 11Z" />
+                <path d="M9 12h6M12 9v6" />
+              </svg>
+            </span>
+            <span>{{ 'PERMITS.SAFETY.ITEMS.FIRST_AID_BRIGADE' | translate }}</span>
+          </article>
+
+          <article class="permits-safety-item">
+            <span class="permits-safety-item__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <circle cx="12" cy="7" r="3" />
+                <path d="M5 21v-2a7 7 0 0 1 14 0v2M12 13v5M9 16h6" />
+              </svg>
+            </span>
+            <span>{{ 'PERMITS.SAFETY.ITEMS.RESCUE_BRIGADE' | translate }}</span>
+          </article>
+
+          <article class="permits-safety-item">
+            <span class="permits-safety-item__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M12 3 3 8v8l9 5 9-5V8l-9-5Z" />
+                <path d="m8 12 3 3 5-6" />
+              </svg>
+            </span>
+            <span>{{ 'PERMITS.SAFETY.ITEMS.EVACUATION_BRIGADE' | translate }}</span>
+          </article>
+
+          <article class="permits-safety-item">
+            <span class="permits-safety-item__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M12 3 4 7v5c0 5 3 8 8 9 5-1 8-4 8-9V7l-8-4Z" />
+                <path d="M9 12h6M12 9v6" />
+              </svg>
+            </span>
+            <span>{{ 'PERMITS.SAFETY.ITEMS.PPE' | translate }}</span>
+          </article>
+
+          <article class="permits-safety-item">
+            <span class="permits-safety-item__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M12 3 3 8v8l9 5 9-5V8l-9-5Z" />
+                <path d="M12 8v5M12 16h.01" />
+              </svg>
+            </span>
+            <span>{{ 'PERMITS.SAFETY.ITEMS.ACCIDENT_INVESTIGATION' | translate }}</span>
+          </article>
+
+          <article class="permits-safety-item">
+            <span class="permits-safety-item__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M4 21V5h16v16M8 9h8M8 13h8M8 17h4" />
+              </svg>
+            </span>
+            <span>
+              {{ 'PERMITS.SAFETY.ITEMS.MACHINERY_PROTECTION' | translate }}
+            </span>
+          </article>
+
+          <article class="permits-safety-item">
+            <span class="permits-safety-item__icon">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M9 18h6M10 22h4M8 14a7 7 0 1 1 8 0c-1 .8-1 2-1 2h-6s0-1.2-1-2Z" />
+              </svg>
+            </span>
+            <span>{{ 'PERMITS.SAFETY.ITEMS.ELECTRICAL_MAINTENANCE' | translate }}</span>
+          </article>
+        </div>
+
+        <div class="permits-safety-note">
+          <span class="permits-safety-note__icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 9v4M12 17h.01" />
+              <circle cx="12" cy="12" r="9" />
+            </svg>
+          </span>
+
+          <p>
+            <strong>{{ 'PERMITS.SAFETY.NOTE.HIGHLIGHT' | translate }}</strong>
+            {{ 'PERMITS.SAFETY.NOTE.TEXT' | translate }}
+          </p>
+        </div>
+      </section>
+
+      <!-- CTA -->
+      <section class="permits-cta">
+        <div class="permits-cta__glow"></div>
+
+        <div class="permits-cta__content">
+          <span class="permits-section-label permits-section-label--light">
+            {{ 'PERMITS.CTA.LABEL' | translate }}
+          </span>
+
+          <h2>
+            {{ 'PERMITS.CTA.TITLE_1' | translate }}
+            <span>{{ 'PERMITS.CTA.TITLE_2' | translate }}</span>
+          </h2>
+
+          <p>
+            {{ 'PERMITS.CTA.DESCRIPTION' | translate }}
+          </p>
+        </div>
+
+        <a href="/contact" class="permits-button permits-button--light">
+          {{ 'PERMITS.CTA.BUTTON' | translate }}
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M5 12h14M13 6l6 6-6 6" />
+          </svg>
+        </a>
+      </section>
+    </div>
+  </section>
+</main>

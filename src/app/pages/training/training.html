@@ -1,0 +1,643 @@
+<main class="training-page">
+  <!-- HERO -->
+  <section class="training-hero">
+    <div class="training-hero__grid"></div>
+    <div class="training-hero__glow"></div>
+
+    <div class="training-container training-hero__content">
+      <div class="training-hero__copy">
+        <h1>
+          {{ 'TRAINING.HERO.TITLE_1' | translate }}
+          <span>{{ 'TRAINING.HERO.TITLE_2' | translate }}</span>
+        </h1>
+
+        <p>
+          {{ 'TRAINING.HERO.DESCRIPTION' | translate }}
+        </p>
+
+        <a (click)="irAlCatalogo($event)" class="training-button training-button--primary">
+          {{ 'TRAINING.HERO.ACTION' | translate }}
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M5 12h14M13 6l6 6-6 6" />
+          </svg>
+        </a>
+
+        <div class="training-hero__trust">
+          <span class="training-hero__trust-icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="m5 12 4 4L19 6" />
+            </svg>
+          </span>
+          {{ 'TRAINING.HERO.TRUST' | translate }}
+        </div>
+      </div>
+
+      <div class="training-hero__visual" aria-hidden="true">
+        <div class="training-hero__circle training-hero__circle--one"></div>
+        <div class="training-hero__circle training-hero__circle--two"></div>
+
+        <div class="training-learning-card">
+          <div class="training-learning-card__header">
+            <div class="training-learning-card__icon">
+              <svg viewBox="0 0 24 24">
+                <path d="M2 10 12 4l10 6-10 6-10-6Z" />
+                <path d="M6 13v5c3 3 9 3 12 0v-5M22 10v6" />
+              </svg>
+            </div>
+
+            <span class="training-learning-card__tag">
+              {{ 'TRAINING.VISUAL_CARD.TAG' | translate }}
+            </span>
+          </div>
+
+          <span class="training-learning-card__label">
+            {{ 'TRAINING.VISUAL_CARD.LABEL' | translate }}
+          </span>
+
+          <h2>
+            {{ 'TRAINING.VISUAL_CARD.TITLE_1' | translate }}
+            <span>{{ 'TRAINING.VISUAL_CARD.TITLE_2' | translate }}</span>
+          </h2>
+
+          <div class="training-learning-card__line"></div>
+
+          <div class="training-learning-card__topics">
+            <div>
+              <span class="training-learning-card__dot"></span>
+              <span>{{ 'TRAINING.VISUAL_CARD.TOPIC_1' | translate }}</span>
+            </div>
+
+            <div>
+              <span class="training-learning-card__dot"></span>
+              <span>{{ 'TRAINING.VISUAL_CARD.TOPIC_2' | translate }}</span>
+            </div>
+
+            <div>
+              <span class="training-learning-card__dot"></span>
+              <span>{{ 'TRAINING.VISUAL_CARD.TOPIC_3' | translate }}</span>
+            </div>
+          </div>
+
+          <div class="training-learning-card__watermark">D</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- INTRODUCCIÓN -->
+  <section class="training-section">
+    <div class="training-container">
+      <a href="/services" class="training-back">
+        <span aria-hidden="true">←</span>
+        {{ 'TRAINING.BACK' | translate }}
+      </a>
+
+      <div class="training-intro">
+        <div class="training-intro__heading">
+          <span class="training-section-label">{{ 'TRAINING.INTRO.LABEL' | translate }}</span>
+
+          <h2>
+            {{ 'TRAINING.INTRO.TITLE_1' | translate }}
+            <span>{{ 'TRAINING.INTRO.TITLE_2' | translate }}</span>
+          </h2>
+        </div>
+
+        <div class="training-intro__text">
+          <p>
+            {{ 'TRAINING.INTRO.PARAGRAPH_1' | translate }}
+          </p>
+
+          <p>
+            {{ 'TRAINING.INTRO.PARAGRAPH_2' | translate }}
+          </p>
+        </div>
+      </div>
+
+      <!-- CATEGORÍAS DEL CATÁLOGO -->
+      <div class="training-category-overview">
+        <a (click)="irAlCurso($event, 'training-formacion')" class="training-category-shortcut">
+          <span class="training-category-shortcut__number">01</span>
+          <span class="training-category-shortcut__icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 3 3 8l9 5 9-5-9-5Z" />
+              <path d="M7 11v5c3 3 7 3 10 0v-5M21 8v6" />
+            </svg>
+          </span>
+          <strong>{{ 'TRAINING.CATEGORIES.CAT_1' | translate }}</strong>
+          <span class="training-category-shortcut__arrow">↗</span>
+        </a>
+
+        <a (click)="irAlCurso($event, 'training-fiscales')" class="training-category-shortcut">
+          <span class="training-category-shortcut__number">02</span>
+          <span class="training-category-shortcut__icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M4 21h16M6 21V8l6-4 6 4v13M9 11h1M14 11h1M9 15h1M14 15h1" />
+            </svg>
+          </span>
+          <strong>{{ 'TRAINING.CATEGORIES.CAT_2' | translate }}</strong>
+          <span class="training-category-shortcut__arrow">↗</span>
+        </a>
+
+        <a (click)="irAlCurso($event, 'training-liderazgo')" class="training-category-shortcut">
+          <span class="training-category-shortcut__number">03</span>
+          <span class="training-category-shortcut__icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <circle cx="9" cy="8" r="4" />
+              <path d="M2 21v-2a7 7 0 0 1 14 0v2M16 4a4 4 0 0 1 0 8M19 14a5 5 0 0 1 3 5v2" />
+            </svg>
+          </span>
+          <strong>{{ 'TRAINING.CATEGORIES.CAT_3' | translate }}</strong>
+          <span class="training-category-shortcut__arrow">↗</span>
+        </a>
+
+        <a (click)="irAlCurso($event, 'training-ejecutivo')" class="training-category-shortcut">
+          <span class="training-category-shortcut__number">04</span>
+          <span class="training-category-shortcut__icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 3 14.5 9.5 21 12l-6.5 2.5L12 21l-2.5-6.5L3 12l6.5-2.5L12 3Z" />
+            </svg>
+          </span>
+          <strong>{{ 'TRAINING.CATEGORIES.CAT_4' | translate }}</strong>
+          <span class="training-category-shortcut__arrow">↗</span>
+        </a>
+
+        <a (click)="irAlCurso($event, 'training-ventas')" class="training-category-shortcut">
+          <span class="training-category-shortcut__number">05</span>
+          <span class="training-category-shortcut__icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="m3 17 6-6 4 4 8-9M15 6h6v6" />
+            </svg>
+          </span>
+          <strong>{{ 'TRAINING.CATEGORIES.CAT_5' | translate }}</strong>
+          <span class="training-category-shortcut__arrow">↗</span>
+        </a>
+
+        <a  (click)="irAlCurso($event, 'training-seguridad')" class="training-category-shortcut">
+          <span class="training-category-shortcut__number">06</span>
+          <span class="training-category-shortcut__icon">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 22s8-4 8-11V5l-8-3-8 3v6c0 7 8 11 8 11Z" />
+              <path d="m9 12 2 2 4-4" />
+            </svg>
+          </span>
+          <strong>{{ 'TRAINING.CATEGORIES.CAT_6' | translate }}</strong>
+          <span class="training-category-shortcut__arrow">↗</span>
+        </a>
+      </div>
+
+      <!-- CATÁLOGO -->
+      <div class="training-catalog-heading" id="training-catalog">
+        <div>
+          <span class="training-section-label">{{ 'TRAINING.CATALOG.LABEL' | translate }}</span>
+          <h2>
+            {{ 'TRAINING.CATALOG.TITLE_1' | translate }}
+            <span>{{ 'TRAINING.CATALOG.TITLE_2' | translate }}</span>
+          </h2>
+        </div>
+
+        <p>
+          {{ 'TRAINING.CATALOG.DESCRIPTION' | translate }}
+        </p>
+      </div>
+
+      <!-- 01 FORMACIÓN -->
+      <section class="training-course-section" id="training-formacion">
+        <div class="training-course-section__header">
+          <div class="training-course-section__identity">
+            <span class="training-course-section__number">01</span>
+            <div>
+              <span class="training-course-section__eyebrow">
+                {{ 'TRAINING.SECTIONS.S1.EYEBROW' | translate }}
+              </span>
+              <h3>{{ 'TRAINING.SECTIONS.S1.TITLE' | translate }}</h3>
+            </div>
+          </div>
+
+          <span class="training-course-section__count">{{
+            'TRAINING.SECTIONS.S1.COUNT' | translate
+          }}</span>
+        </div>
+
+        <div class="training-course-grid training-course-grid--two">
+          <article class="training-course-card">
+            <span class="training-course-card__index">01 / 04</span>
+            <h4>{{ 'TRAINING.SECTIONS.S1.COURSES.C1.TITLE' | translate }}</h4>
+            <p>
+              {{ 'TRAINING.SECTIONS.S1.COURSES.C1.DESC' | translate }}
+            </p>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">02 / 04</span>
+            <h4>{{ 'TRAINING.SECTIONS.S1.COURSES.C2.TITLE' | translate }}</h4>
+            <p>{{ 'TRAINING.SECTIONS.S1.COURSES.C2.DESC' | translate }}</p>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">03 / 04</span>
+            <h4>{{ 'TRAINING.SECTIONS.S1.COURSES.C3.TITLE' | translate }}</h4>
+            <p>
+              {{ 'TRAINING.SECTIONS.S1.COURSES.C3.DESC' | translate }}
+            </p>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">04 / 04</span>
+            <h4>{{ 'TRAINING.SECTIONS.S1.COURSES.C4.TITLE' | translate }}</h4>
+            <p>
+              {{ 'TRAINING.SECTIONS.S1.COURSES.C4.DESC' | translate }}
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <!-- 02 FISCALES -->
+      <section class="training-course-section" id="training-fiscales">
+        <div class="training-course-section__header">
+          <div class="training-course-section__identity">
+            <span class="training-course-section__number">02</span>
+            <div>
+              <span class="training-course-section__eyebrow">
+                {{ 'TRAINING.SECTIONS.S2.EYEBROW' | translate }}
+              </span>
+              <h3>{{ 'TRAINING.SECTIONS.S2.TITLE' | translate }}</h3>
+            </div>
+          </div>
+
+          <span class="training-course-section__count">{{
+            'TRAINING.SECTIONS.S2.COUNT' | translate
+          }}</span>
+        </div>
+
+        <div class="training-course-grid training-course-grid--three">
+          <article class="training-course-card">
+            <span class="training-course-card__index">01 / 03</span>
+            <h4>{{ 'TRAINING.SECTIONS.S2.COURSES.C1.TITLE' | translate }}</h4>
+            <p>
+              {{ 'TRAINING.SECTIONS.S2.COURSES.C1.DESC' | translate }}
+            </p>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">02 / 03</span>
+            <h4>{{ 'TRAINING.SECTIONS.S2.COURSES.C2.TITLE' | translate }}</h4>
+            <p>
+              {{ 'TRAINING.SECTIONS.S2.COURSES.C2.DESC' | translate }}
+            </p>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">03 / 03</span>
+            <h4>{{ 'TRAINING.SECTIONS.S2.COURSES.C3.TITLE' | translate }}</h4>
+            <p>{{ 'TRAINING.SECTIONS.S2.COURSES.C3.DESC' | translate }}</p>
+          </article>
+        </div>
+      </section>
+
+      <!-- 03 LIDERAZGO -->
+      <section class="training-course-section" id="training-liderazgo">
+        <div class="training-course-section__header">
+          <div class="training-course-section__identity">
+            <span class="training-course-section__number">03</span>
+            <div>
+              <span class="training-course-section__eyebrow">
+                {{ 'TRAINING.SECTIONS.S3.EYEBROW' | translate }}
+              </span>
+              <h3>{{ 'TRAINING.SECTIONS.S3.TITLE' | translate }}</h3>
+            </div>
+          </div>
+
+          <span class="training-course-section__count">{{
+            'TRAINING.SECTIONS.S3.COUNT' | translate
+          }}</span>
+        </div>
+
+        <div class="training-course-grid training-course-grid--three">
+          <article class="training-course-card">
+            <span class="training-course-card__index">01 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S3.COURSES.C1' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">02 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S3.COURSES.C2' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">03 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S3.COURSES.C3' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">04 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S3.COURSES.C4' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">05 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S3.COURSES.C5' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">06 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S3.COURSES.C6' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">07 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S3.COURSES.C7' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">08 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S3.COURSES.C8' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">09 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S3.COURSES.C9' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">10 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S3.COURSES.C10' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">11 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S3.COURSES.C11' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">12 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S3.COURSES.C12' | translate }}</h4>
+          </article>
+        </div>
+      </section>
+
+      <!-- 04 DESARROLLO EJECUTIVO -->
+      <section class="training-course-section" id="training-ejecutivo">
+        <div class="training-course-section__header">
+          <div class="training-course-section__identity">
+            <span class="training-course-section__number">04</span>
+            <div>
+              <span class="training-course-section__eyebrow">
+                {{ 'TRAINING.SECTIONS.S4.EYEBROW' | translate }}
+              </span>
+              <h3>{{ 'TRAINING.SECTIONS.S4.TITLE' | translate }}</h3>
+            </div>
+          </div>
+
+          <span class="training-course-section__count">{{
+            'TRAINING.SECTIONS.S4.COUNT' | translate
+          }}</span>
+        </div>
+
+        <div class="training-course-grid training-course-grid--three">
+          <article class="training-course-card">
+            <span class="training-course-card__index">01 / 10</span>
+            <h4>{{ 'TRAINING.SECTIONS.S4.COURSES.C1' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">02 / 10</span>
+            <h4>{{ 'TRAINING.SECTIONS.S4.COURSES.C2' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">03 / 10</span>
+            <h4>
+              {{ 'TRAINING.SECTIONS.S4.COURSES.C3' | translate }}
+            </h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">04 / 10</span>
+            <h4>{{ 'TRAINING.SECTIONS.S4.COURSES.C4' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">05 / 10</span>
+            <h4>{{ 'TRAINING.SECTIONS.S4.COURSES.C5' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">06 / 10</span>
+            <h4>{{ 'TRAINING.SECTIONS.S4.COURSES.C6' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">07 / 10</span>
+            <h4>{{ 'TRAINING.SECTIONS.S4.COURSES.C7' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">08 / 10</span>
+            <h4>{{ 'TRAINING.SECTIONS.S4.COURSES.C8' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">09 / 10</span>
+            <h4>{{ 'TRAINING.SECTIONS.S4.COURSES.C9' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card training-course-card--highlight">
+            <span class="training-course-card__index">10 / 10</span>
+            <span class="training-course-card__badge">{{
+              'TRAINING.SECTIONS.S4.COURSES.C10_BADGE' | translate
+            }}</span>
+            <h4>{{ 'TRAINING.SECTIONS.S4.COURSES.C10_TITLE' | translate }}</h4>
+            <p>
+              {{ 'TRAINING.SECTIONS.S4.COURSES.C10_DESC' | translate }}
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <!-- 05 VENTAS -->
+      <section class="training-course-section" id="training-ventas">
+        <div class="training-course-section__header">
+          <div class="training-course-section__identity">
+            <span class="training-course-section__number">05</span>
+            <div>
+              <span class="training-course-section__eyebrow">
+                {{ 'TRAINING.SECTIONS.S5.EYEBROW' | translate }}
+              </span>
+              <h3>{{ 'TRAINING.SECTIONS.S5.TITLE' | translate }}</h3>
+            </div>
+          </div>
+
+          <span class="training-course-section__count">{{
+            'TRAINING.SECTIONS.S5.COUNT' | translate
+          }}</span>
+        </div>
+
+        <div class="training-course-grid training-course-grid--three">
+          <article class="training-course-card">
+            <span class="training-course-card__index">01 / 07</span>
+            <h4>{{ 'TRAINING.SECTIONS.S5.COURSES.C1' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">02 / 07</span>
+            <h4>{{ 'TRAINING.SECTIONS.S5.COURSES.C2' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">03 / 07</span>
+            <h4>{{ 'TRAINING.SECTIONS.S5.COURSES.C3' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">04 / 07</span>
+            <h4>{{ 'TRAINING.SECTIONS.S5.COURSES.C4' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">05 / 07</span>
+            <h4>{{ 'TRAINING.SECTIONS.S5.COURSES.C5' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">06 / 07</span>
+            <h4>{{ 'TRAINING.SECTIONS.S5.COURSES.C6' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">07 / 07</span>
+            <h4>{{ 'TRAINING.SECTIONS.S5.COURSES.C7' | translate }}</h4>
+          </article>
+        </div>
+      </section>
+
+      <!-- 06 SEGURIDAD -->
+      <section class="training-course-section" id="training-seguridad">
+        <div class="training-course-section__header">
+          <div class="training-course-section__identity">
+            <span class="training-course-section__number">06</span>
+            <div>
+              <span class="training-course-section__eyebrow">
+                {{ 'TRAINING.SECTIONS.S6.EYEBROW' | translate }}
+              </span>
+              <h3>{{ 'TRAINING.SECTIONS.S6.TITLE' | translate }}</h3>
+            </div>
+          </div>
+
+          <span class="training-course-section__count">{{
+            'TRAINING.SECTIONS.S6.COUNT' | translate
+          }}</span>
+        </div>
+
+        <div class="training-course-grid training-course-grid--three">
+          <article class="training-course-card">
+            <span class="training-course-card__index">01 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S6.COURSES.C1' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">02 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S6.COURSES.C2' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">03 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S6.COURSES.C3' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">04 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S6.COURSES.C4' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">05 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S6.COURSES.C5' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">06 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S6.COURSES.C6' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">07 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S6.COURSES.C7' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">08 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S6.COURSES.C8' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">09 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S6.COURSES.C9' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">10 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S6.COURSES.C10' | translate }}</h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">11 / 12</span>
+            <h4>
+              {{ 'TRAINING.SECTIONS.S6.COURSES.C11' | translate }}
+            </h4>
+          </article>
+
+          <article class="training-course-card">
+            <span class="training-course-card__index">12 / 12</span>
+            <h4>{{ 'TRAINING.SECTIONS.S6.COURSES.C12' | translate }}</h4>
+          </article>
+        </div>
+      </section>
+
+      <!-- TRATO PERSONALIZADO -->
+      <section class="training-personalized">
+        <div class="training-personalized__icon">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M12 3 14.5 9.5 21 12l-6.5 2.5L12 21l-2.5-6.5L3 12l6.5-2.5L12 3Z" />
+          </svg>
+        </div>
+
+        <div>
+          <span class="training-section-label">{{
+            'TRAINING.PERSONALIZED.LABEL' | translate
+          }}</span>
+          <h3>{{ 'TRAINING.PERSONALIZED.TITLE' | translate }}</h3>
+          <p>
+            {{ 'TRAINING.PERSONALIZED.DESCRIPTION' | translate }}
+          </p>
+        </div>
+      </section>
+
+      <!-- CTA -->
+      <section class="training-cta">
+        <div class="training-cta__glow"></div>
+
+        <div class="training-cta__content">
+          <span class="training-section-label training-section-label--light">
+            {{ 'TRAINING.CTA.LABEL' | translate }}
+          </span>
+
+          <h2>
+            {{ 'TRAINING.CTA.TITLE_1' | translate }}
+            <span>{{ 'TRAINING.CTA.TITLE_2' | translate }}</span>
+          </h2>
+
+          <p>
+            {{ 'TRAINING.CTA.DESCRIPTION' | translate }}
+          </p>
+        </div>
+
+        <a href="/contact" class="training-button training-button--light">
+          {{ 'TRAINING.CTA.BUTTON' | translate }}
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M5 12h14M13 6l6 6-6 6" />
+          </svg>
+        </a>
+      </section>
+    </div>
+  </section>
+</main>

@@ -1,1 +1,78 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  --hero-bg: #061448;
+  --hero-bg-light: #0d205b;
+  --hero-white: #ffffff;
+  --hero-muted: #bdc8e9;
+  --hero-pink: #ff668e;
+  --hero-purple: #bd4dff;
+  --hero-blue: #459cff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.hero__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  min-height: 50px;
+  padding: 0 25px;
+  border-radius: 999px;
+  color: var(--hero-white);
+  font-size: 14px;
+  font-weight: 650;
+  text-decoration: none;
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    background 0.25s ease;
+}
+
+.hero__button:hover {
+  transform: translateY(-3px);
+}
+
+.hero__button--header,
+.hero__button--primary {
+  background: linear-gradient(
+    105deg,
+    var(--hero-pink) 0%,
+    var(--hero-purple) 52%,
+    var(--hero-blue) 100%
+  );
+  box-shadow: 0 8px 28px rgba(112, 81, 255, 0.16);
+}
+
+.hero__button--header {
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.hero__button--header:hover,
+.hero__button--primary:hover {
+  box-shadow: 0 10px 32px rgba(153, 85, 255, 0.32);
+}
+
+.hero__button span {
+  font-size: 18px;
+}
+
+.hero__menu {
+  display: none;
+  padding: 8px;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.hero__menu span {
+  display: block;
+  width: 25px;
+  height: 2px;
+  margin: 5px 0;
+  border-radius: 2px;
+  background: white;
+}
